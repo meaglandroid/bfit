@@ -1,4 +1,5 @@
-{ "movements" : [{
+{ "movements" : [
+{
     "id": 1,
     "movement_name": "Barbell Bench Press",
     "icon_type": "0",
