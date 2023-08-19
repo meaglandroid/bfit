@@ -1,626 +1,704 @@
 { "movements" : [
-{
-    "id": 1,
-    "movement_name": "Barbell Bench Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/barbellbenchpress.png?raw=true",
-    "yapilis": "Bench sehpasına düz bir şekilde uzanın.Ayaklarınızı sehpanın her iki yanına tabanlarınız yere tam basacak şekilde yerleştirin.Barbell’ı dirsek genişliğinde ellerinizle kavrayın ve nefes alarak göğsünüzün tam ortasına göğüs uçlarına doğru indirin.İndirme sırasında mümkün olduğunca kaslarınızı hissetmek için yavaş hareket edin.Barbell’ı göğüs bölgenize 1-2 santim kalıncaya kadar indirip ardından nefes vererek yukarı doğru dirsekleriniz tamamen düz oluncaya kadar kaldırın."
-},
-{
-    "id": 2,
-    "movement_name": "Machine Chest Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/machinechestpress.jpg?raw=true",
-    "yapilis": "Kaldırabileceğiniz ağırlığı belirleyin ve ağırlığı ölçerek, iki tutacaktan tutun ve martı pozisyonuna geçin.Belinizin dik olmasına ve tam oturduğunuza dikkat edin.Martı pozisyonundan tutacakları çekin ve ellerinizin birbiriyle birleşmesine yakın tekrar aynı pozisyona dönün."
-},
-{
-    "id": 3,
-    "movement_name": "Machine Fly",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/machinefly.jpg?raw=true",
-    "yapilis": "Sehpaya sırtınızı düz bir şekilde yaslayın.Ağırlık kollarını kavrayın.Nefes vererek öne doğru kollarınızı kapatın.Nefes alarak tekrar başlangıç pozisyonuna dönün."
-},
-{
-    "id": 4,
-    "movement_name": "Barbell Incline Bench Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/barbellinclinebenchpress.png?raw=true",
-    "yapilis":"30-45 eğim ayarlı sehpa üzerine yatın.Omuz Genişliğinden biraz fazla, orta genişlikte kollarınızı açın.Ağırlığı kavradığınızda avuç içleri yukarı bakacak şekilde olsun.Halter hizası göğüs ortasının az üstüne gelecek pozisyonda olsun.Ağırlığı indirirken göğsünüze değdirmeyin.Nefes vererek ağırlığı kollar dik olacak şekilde kaldırın.1 saniye bekleyin ve nefes alarak göğüs hizasına kadar yavaşça indirin."
-},
-{
-    "id": 5,
-    "movement_name": "Şınav",
-    "icon_type": "0",
-    "area": "Tüm vücut",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/sinav.jpg?raw=true",
-    "yapilis":"Yüksek plank pozisyonunda başlayın.Ellerinizi direkt omzunun altına koyun.Ayak parmaklarınızı yere takın, karnınızı sıkın ve sırtınızı düzleyin.Vücudunuzu alçaltmaya başlayın.Sırtınızı düz tutarken boynunuzu da bükmemek için gözleriniz yerde ilerideki bir noktaya baksın.Göğsünüz yere değene vücudunuzu indirin.Kalçanız aşağı düşmesin ya da yukarı çıkmasın.Vücudunuz baştan ayağa düzgün bir hattı korumalı."
-},
-{
-    "id": 6,
-    "movement_name": "Dumbbell Fly",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellfly.png?raw=true",
-    "yapilis": "Her iki elinize birer adet alarak benche sırt üstü uzanın. Dumbbell‘ar  göğüs hizanızda, kollarınız dik ve avuç içleriniz birbirine bakar şekilde olacak. Bu başlangıç pozisyonunuz. Nefes alarak dumbell‘ları omuz hizasının biraz altına gelene kadar her iki yana dengeli olarak orta yavaş hızda indirin. Nefes vererek, dirseklerinizin açısını artırarak (kolları tam düz konuma getirerek) dumbbell’ları  göğüs hizasında yukarı kaldırın. Hareketin sonunda, dumbbell’ları birbirine değdirmeden, bir saniye kadar, göğüs kasını iyice kasarak izometrik çalışma yapın. Ardından tekrar inişe geçin."
-},
-{
-    "id": 7,
-    "movement_name": "Cable Crossover",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/cablecrossover.png?raw=true",
-    "yapilis": "Cable Cross makinesin’de makara guruplarını göğüs hizanızla aynı seviyeye çekin. Çok ağır olmayan bir ağırlık seçip tutamaçları sırasıyla tutun ve makineyi ortalayın. Ortaladıktan sonra kollarınız açık pozisyondayken bir adım kadar öne çıkın. Dengenizi sağlamak için bir ayağınızı geriye atabilirsiniz. Nefes vererek açık pozisyonda ve yere paralel olan kollarınızı kırmadan öne doğru kapatmaya başlayın. Hızınız orta bir hız olsun. Maksimum seviyede göğüs kaslarınıza odaklanın.  Kol ve omuz kaslarınızdan yardım almamaya çalışın. Nefes alarak sıkıştırma hızınıza göre daha düşük bir hızda kollarınızı kırmadan her iki yana açın."
-},
-{
-    "id": 8,
-    "movement_name": "Dumbbell Pullover",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellpullover.png?raw=true",
-    "yapilis": "üz bir benchin üzerine uzanarak yapacaksanız bench bitimi ile omuzlarınız aynı hizada kalacak şekilde köprü pozisyonunda uzanın. Sırtınızı benche yaslayarak hareketi yapacaksanız, boynunuzun bir kısmı benchten taşacak şekilde köprü pozisyonunda kendinizi sabitleyin. Dumbbellı elinize alarak iki elinizle bir bölümünden kavrayın ve kafanızın üzerine gelecek biçimde yukarı kaldırın. Kavramış olduğunuz dumbbellı kollarınızı kırmadan kafanızın ara kısmına doğru indirin. Kollarınızı en az kafanızla aynı hizaya gelene kadar dumbbellı indirdikten sonra yeniden yukarı kaldırın. Yavaş bir biçimde elinizdeki dumbbellı indirip kaldırmaya devam edin. Dumbbellı indirirken oldukça yavaş olmalısınız ancak kaldırırken orta hızda kaldırabilirsiniz. Harekete kollarınız yukarıdayken başladığınız gibi kollarınız havadayken bitirin."
-},
-{
-    "id": 9,
-    "movement_name": "Decline Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/declinebenchpress.png?raw=true",
-    "yapilis": "Bacaklarınızı ayaklıklara takarak vücudunuzun sabitleyin ve aşağı doğru kaymasını engelleyin. Bench’e uzanın. Nefes alın ve ardından nefes vererek barbell’i (yere dik olarak inip kalkmalı) 1 – 1,5 saniye aralığında yukarı doğru itin. Tepe noktaya ulaştığınızda dirsek ekleminizi kesinlikle kilitlemeyin. Bunu yaparsanız yük göğsünüzde değil ekleminizde olur ve sakatlanmaya neden olabilir. Tepe noktaya ulaştığınızda bir saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında barbell’i göğsünüzün alt kısmına doğru indirin. Alt göğüse değmesine 1 cm mesafe kala bekleme yapmadan tekrar itin."
-},
-{
-    "id": 10,
-    "movement_name": "Dumbbell Incline Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/inclinedumbbellpress.png?raw=truel",
-    "yapilis": "İki adet dumbbell‘ı kavrayın ve bench’e uzanın. Ayaklarınızı bir omuz genişliği kadar açın ve egzersiz süresince yere tam basın. Nefes alın ve ardından nefes vererek 2 saniye aralığında, göğüs seviyenizdeki dumbbell’ları üst kolları yere dik tutarak, yukarı doğru itmeye başlayın. Tepe noktaya gelirken göğsünüzü iyice sıkın. Tepe noktada dumbbell‘ları birbirine değdirmemeye çalışın. Tepe noktaya ulaşınca 1 saniye kadar bekleyip ardından nefes alarak 2 – 2,5 saniye aralığında dumbbell’ları indirmeye başlayın. Dip noktada ise göğüs kasınızın iyice esnediğini hissetmelisiniz. Dumbbell’ları ne kadar aşağı indirirseniz hareket çalışma mesafeniz o kadar artacak, kasınız daha çok çalışacaktır. Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek tekrar yükselişe geçin."
-},
-{
-    "id": 11,
-    "movement_name": "Dumbbell Bench Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellbenchpress.png?raw=true",
-    "yapilis": "Bench'in üzerine her iki elinizde üstten tutuş yaptığınız dumbbell’lar ile uzanın. Ayaklarınız dengenizi daha rahat sağlamak amaçlı biraz açık ve yere tam basar şekilde olmalı. Bench üzerine yattığınızda dumbbell’ları yukarı kaldırın.  Kollarınız yere tamamen dik ve dumbbell’ların birbirine değmesine bir kaç santim mesafe kalmalı. Bu başlangıç pozisyonunuz olacak.Nefes alarak orta yavaş hızda dumbbell’ları 1,5 – 2 saniye aralığında indirmeye başlayın. Bunu yaparken ön kolların yere dik olarak inmesine dikkat edin. Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek 1 – 1.5 saniye aralığında dumbbell’ları kuvvetlice yukarı doğru itin. Tepe nokta ya ulaştığınızda bekleme yapmadan nefes alarak orta yavaş hızda indirmeye başlayın."
-},
-{
-    "id": 12,
-    "movement_name": "Incline Dumbbell Fly",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/inclinedumbbellfly.jpg?raw=true",
-    "yapilis":"30-45 derece eğimli pozisyonda sehpa açısını ayarlayın. Ağırlığı kavradığınızda avuç içleri yukarı bakıcak şekilde olsun. Kollarınızı hafif kırarak yana doğru açın ve nefes alın. Nefes vererek yukarı doğru kaldırın. Nefes Vererek tekrar başlangıç pozisyonuna dönün."
-},
-{
-    "id": 13,
-    "movement_name": "Low Cable Crossover",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/lowcablecrossover.PNG?raw=true",
-    "yapilis":"Cablecross makinasının makaralarını el alta çekin. Uygun ağırlığı takın. Makineyi ortalayın ve kollarınızı serbest bırakın. Bu başlangıç pozisyonunuz olacak. Nefes alın ve ardından nefes vererek ağırlığı kaldırmaya başlayın. Bunu şu şekilde yapacaksınız. Kollar aşağıda serbest pozisyonda iken vücuda çarpmaması için açık vaziyette olur. Kapanış anında kollarınız yere dik ve birbirine bitişik hale gelecek. Son noktaya geldiğinizde bir saniye kadar bekleyin ve kaldırış hızınıza oranla daha yavaş bir hızda nefes alarak kollarınızı aşağı doğru salın."
-},
-{
-    "id": 14,
-    "movement_name": "Dumbbell Squeeze Press",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellsqueezepress.jpg?raw=true",
-    "yapilis":"Her iki elinize birer dumbbell alarak  düz bench sehpasına uzanın. Avuç içleriniz birbirine bakacak şekilde dumbbell’ları göğsünüzün hemen üstünde birleştirin. Bu başlangıç pozisyonunuz olacak. Nefes alın ve ardından nefes vererek kollarınız yere tam dik olacak şekilde dumbbelları kaldırın. İndirme ve kaldırma anında dumbbellar birbirine değecek. Nefes alarak dumbell’ları göğsünüze indirin."
-},
-{
-    "id": 15,
-    "movement_name": "Chest Dips",
-    "icon_type": "0",
-    "area": "Göğüs",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/chestdips.png?raw=true",
-    "yapilis":"Dips kulesine çıktıktan sonra barları kavrayın ve gövdenizi öne eğin. Karın kaslarınızı sıkarak vücudunuzun eğimini koruyun. Omzunuz ve dirsekleriniz elverdiği derecede aşağı inin. Patlayıcı güç ile başlangıç konumuna döndükten sonra yavaşça hareketi tekrarlayın."
-},
-{
-    "id": 16,
-    "movement_name": "Dumbbell Lateral Raise",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/lateraldumbbellraise.PNG?raw=true",
-    "yapilis":"Her iki elinize uygun ağırlıkta birer dumbbell alın. Ayaklarınızı omuz genişliğiniz kadar açın. Belinize ya da kalçanıza bir es vermenize gerek yok. Tamamen dik olarak durun. Şimdi nefes alın ve ardından nefes vererek  1,5 saniye aralığında kollarınızı omuz seviyenize kadar kaldırmaya başlayın. Dumbbell’lar yere paralel olarak hareket etmeli. Öne ya da arkaya herhangi bir eğim vermeyin. Omuz hizasına yani tepe noktaya geldiğinizde 0,5 – 1 saniye kadar bekleyin ve ardından nefes alarak 2 saniye aralığında kolları aşağı indirmeye başlayın. İndirme ne kadar yavaş olursa ağırlığa karşı direnç o kadar fazla olur ve indirme anında da kas gelişimi devam eder. Dip noktaya geldiğinizde bekleme yapmadan nefes vererek tekrar kaldırmaya başlayın."
-},
-{
-    "id": 17,
-    "movement_name": "One Arm Cable Lateral Raise",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/onearmcablelateralraise.jpg?raw=true",
-    "yapilis":"Dik pozisyonda durun ve ayaklarınızı omuz hizasında aralayın. Sol elinizde ağırlık demirini kavrayın. Avuç içi yere bakacak şekilde ağırlığı aşşağıdan yukarıya doğru kaldırın. Nefes vererek omuz hizasına kadar kaldırın. Nefes alarak yavaşça indirin. Diğer kolunuza geçerek aynı işlemleri uygulayın."
-},
-{
-    "id": 18,
-    "movement_name": "Facepull",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/facepull.png?raw=true",
-    "yapilis":"Cablecross makinesine halatı takın. Makara gruplarını en yukarı kaldırın. Çekişi yukarıdan yüzünüze doğru yapacaksınız. Avuç içleriniz içe bakacak şekilde halatı kavrayın. Makineden bir kaç adım uzaklaşın. Nefes alın ve ardından nefes vererek  karşıya doğru uzattığınız halatı  yüzünüze doğru çekmeye başlayın. Alnınıza doğru, yüzünüze doğru çekebilirsiniz.Son noktaya geldiğinizde  bir saniye kadar bekleyin ve çekiş hızınıza oranla daha yavaş bir hızda  nefes alarak halatı salmaya başlayın."
-},
-{
-    "id": 19,
-    "movement_name": "Bent Over Lateral Raise",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/bentoverlateralraise.jpg?raw=true",
-    "yapilis":"Standart versiyon ayakta yapılır. İki adet çok ağır olmayan dumbbell’ı her iki elinize alın. Bacaklarınızı omuz hizanız kadar açın ve dizlerinizi biraz kırıp kalçanızı dışarı çıkartın. Üst vücudunuzu olabildiğince yere paralel hale getirmeye çalışın. Kollarınızı aşağı sarkıtın.Nefes alın ve ardından nefes vererek her iki kolunuzu aynı anda geriye doğru kaldırmaya başlayın. Kaldırabileceğiniz son nokta vücut hizanız olmalı.Ardından nefes alarak kolları aşağı 1,5 – 2 saniye aralığında salmaya başlayın. Dip noktada dumbbell’lar arasında yaklaşık 30 santim kadar mesafe  kalsın. Dip noktada dumbbell’lar arası 30 cm kadar mesafe kaldığında bekleme yapmadan nefes vererek tekrar kaldırışa geçin."
-},
-{
-    "id": 20,
-    "movement_name": "Dumbbell Front Raise",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellfrontraise.jpg?raw=true",
-    "yapilis":"Düz bir şekilde durarak, bacaklarınızı omuz hizasında açın ve ağırlıkları avuç içleri kendinize bakıcak şekilde kavrayın. Gövdeyi sabit tutarken, ağırlıkları dirseğe hafifçe bükerek ve ellerin avuç içleri daima aşağı bakacak şekilde öne doğru kaldırın. Kolları zemine paralel olarak, omuz hizasına gelene kadar kaldırın. Ağırlıkları kaldırırken nefes verin ve üstte bir saniye bekleyin. Nefes alırken, ağırlıkları yavaşça başlangıç ​​pozisyonuna geri indirin."
-},
-{
-    "id": 21,
-    "movement_name": "Dumbbell Shoulder Press",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellshoulderpress.jpg?raw=true",
-    "yapilis":"Ağırlıkları elinize alarak, ayakta veya sırt desteği olan bir sehpaya oturun. Sehpayı dik konuma getirin. Ağırlıkları her iki taraftan da omuz yüksekliğine getirin. Baldırlarınızdan güç alarak kaldırabilirsiniz. Ellerinizi avuçlarınız öne bakacak şekilde bilekleri döndürün. Başlangıç pozisyonu alın. Nefes verirken, ağırlıkları yukarı kaldırın. İkinci bir duraklamadan sonra, nefes alırken yavaşça başlangıç ​​pozisyonuna doğru indirin"
-},
-{
-    "id": 22,
-    "movement_name": "Dumbbell Upright Row",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbelluprightrow.png?raw=true",
-    "yapilis":"Ayaklarınızı omuz genişliğiniz kadar açın. Üst vücudunuzu yere dik olarak tutun. Bar’ı her iki elinizle omuz genişliği mesafesinde kavrayın. Başlangıç noktası için kollarınızı tamamen yere sarkıtın. Nefes alın ve ardından nefes vererek 1,5 saniye aralığında bar’ı köprücük kemiğinize, daha fazla çekebiliyorsanız çenenizin altına kadar çekin. Tepe noktada 1 saniye kadar bekleyin ve ardından nefes alarak 2 saniye aralığında bar’ı salmaya başlayın. Dip noktaya ulaştığınızda bekleme yapmadan tekrar çekişe başlayın."
-},
-{
-    "id": 23,
-    "movement_name": "Overhead Machine Press",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/machineshoulderpressoverhead.jpg?raw=true",
-    "yapilis":"Sırtınızı ve başınızı sırtlığa tamamen yaslayın. Başınız sadece karşıya baksın. Ayaklarınızı geniş olarak tutmak kaldırış kolaylığı sağlayacaktır. Nefes alın ve ardından nefes vererek orta hızda itmeye başlayın. Üst resimde görüldüğü gibi dirsekleri kitlemeden tepe noktasına ulaşın. Tepe noktasına ulaştıktan sonra nefes alarak yavaş hızda ağırlığı indirmeye başlayın. Elleriniz çene hizanıza kadar inince beklemeden nefes vererek tekrar yukarı itiş yapın."
-},
-{
-    "id": 24,
-    "movement_name": "Barbell Overhead Press",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/barbelloverheadpress.png?raw=true",
-    "yapilis":"Halteri başınızın hemen üstüne doğru yüksekliğe getirin. Demiri avuç içi öne gelicek şekilde kavrayın. Kollarınızı bükerek halteri omuz hizasında başınızın önüne doğru gelicek şekilde indirin. Omuzlarınıza doğru yavaşça nefes alarak indirin. Başınızın üzerine kaldırırken tekrar nefes verin."
-},
-{
-    "id": 25,
-    "movement_name": "Arnold Press",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/arnoldshoulderpress.jpg?raw=true",
-    "yapilis":""
-},
-{
-    "id": 26,
-    "movement_name": "Up-right Row",
-    "icon_type": "1",
-    "area": "Omuz",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/uprightrow.PNG?raw=true",
-    "yapilis":"Sehpaya dik bir şekilde oturun ve dirseklerinizi bükerek avuç içi yüzünüze bakacak şekilde ağırlıkları kavrayın ve nefes alın. Kalkış pozisyonunda nefesinizi tüketerek avuçlarınızı yüzünüzün baktığı yöne doğru tam anlamıyla ters çevirin ve rotasyon yaparak tepeye kadar kaldırın. Tekrar omuz pozisyonunda yavaşça avuç içleri yüzünüze bakacak şekilde indirin."
-},
-{
-    "id": 27,
-    "movement_name": "Squat",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/squat.png?raw=true",
-    "yapilis":"Başın dik ve bakışların ileri doğru olmalı. Göğsünü yukarıda tut. Ayaktayken nefes alıp, çömelirken verebilirsin. Belini düz tutmak için enerji harcama, doğal kıvrımında kalsın. Kendi gücüne göre kalça ve basenler yere paralel veya inebildiğin kadar aşağıda olabilir. Dizlerin ayak uçlarının önüne geçmemesi hareketin genel bütünlüğü açısından önemli. Ayak tabanların yere düz bassın, ağırlığını topuklarına ver. Biraz daha zorlaşsın istersen ayak parmaklarını kaldırmayı dene."
-},
-{
-    "id": 28,
-    "movement_name": "Hack Squat",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/hacksquat.png?raw=true",
-    "yapilis":"Ayaklarınızı hafif içe dönük olarak yerleştirin. Ayak açıklığı omuz mesafesinde olmasına özen gösterin. Başınız karşıya bakmalı ve dik durmalı. Sırtınızı mindere yaslamalısınız. Kollarınız makinenin yanında halteri kaldıracağınız nokta düz durmalı. Ağırlığı yukarı doğru yavaşça ittirin."
-},
-{
-    "id": 29,
-    "movement_name": "Leg Press",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/legpress.JPG?raw=true",
-    "yapilis":"Leg press makinasına oturun ve ayaklarınızı kalça genişliğinde açın. Topuklarınızın zemine bastığından iyice emin olun. Emniyet mandallarını açtıktan sonra her iki tutamacı kavrayın. Ağırlığı indirme aşamasında nefes alın. Dizleriniz 90 derecelik bir açıya geldiğinde, yukarı doğru nefesinizi tüketerek bastırın ve bacaklarınızı düzeltin. Dizlerinizi tamamen kilitlemeden tekrar başlangıç pozisyonuna doğru yavaşça gelin."
-},
-{
-    "id": 30,
-    "movement_name": "Leg Extension",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/legextension.JPG?raw=true",
-    "yapilis":"Makineye oturmadan önce boyunuzun uzunluğuna göre oturma kısmını ayarlayın. Ayak pedini ayağınızın hemen üstüne yani bileğin başlangıcına ayarlayın. Uygun bir ağırlık seçin. Şimdi nefes alın ve ardından nefes vererek ayaklarınızı yukarı doğru  orta hızda kaldırmaya başlayın.Yapabildiğiniz kadar alt ve üst bacağınızı paralel hale getirmeye çalışın. Olmuyorsa ağırlık düşürün. Tepe noktaya ulaştıktan sonra nefes alarak yavaş hızda indirmeye  başlayın. Yavaş hızda indirmek de oldukça önemli. Yavaş indirirseniz üst bacak kasları ağırlığa direnç göstermek zorunda kalacağından iniş anında da çalışacaklardır."
-},
-{
-    "id": 31,
-    "movement_name": "Walking Lunge",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/walkinglunge.jpg?raw=true",
-    "yapilis":"Her iki elinize de uygun ağırlıkta birer dumbbell alın. İniş anında nefes alıp, kalkış anında nefes vereceksiniz. Nefes alın ve öne doğru bir adım atarak geride kalan ayağınızla dizinizin üstüne çökmeye başlayın. Diziniz yere temas etmemeli. Dizinizin üzerine çöktükten sonra nefes vererek kalkmaya başlayın ve geride kalan ayağınızı, ileride ki ayağınızın bir adım önüne atın. Ve tekrar nefes alarak çökmeye başlayın. Üst vücudunuzu kesinlikle yere dik olarak tutun. Egzersiz boyunca sadece karşıya bakın."
-},
-{
-    "id": 32,
-    "movement_name": "Calf",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/standingandseatedcalfraise.jpg?raw=true",
-    "yapilis":"Calf raise egzersizini tek ayak ya da çift ayak olarak yapabilirsiniz. Uygun bir ağırlık seçin ve step tahtasının üzerine tek ayağınızın parmak uçlarını koyun. Step tahtası yok ise bir ağırlık plakası ya da bir merdiven basamağı ucu olabilir. Parmak uçlarınızı yerleştirdiniz ve ayağın ortası ve topuk bölgesi yere paralel olarak boşta kaldı. Bu başlangıç pozisyonunuz olacak. Dengeyi sağlamak için diğer elinizle bir yere tutunabilirsiniz ama bunu yaparken tutunduğunuz yerden güç almayın. Nefes alın ver ardından nefes vererek orta hızda yukarı doğru yükselin.Tepe noktaya ulaştığınızda iki saniye kadar bekleyin. Ardından nefes alarak kalkış hızınıza oranla daha yavaş bir hızda inişe geçin. İniş noktası ise ayak yere paralel başlangıç noktasına göre daha aşağıda olacak. Bunu maksimum mesafede çalışabilmek için yapacağız. İnebildiğiniz kadar aşağı indikten sonra yine nefes vererek tepe noktaya kadar kendinizi yükseltin."
-},
-{
-    "id": 33,
-    "movement_name": "Leg Curl",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/legcurl.jpg?raw=true",
-    "yapilis":"Uygun bir ağırlık seçin ve makinenin pedlerini tam aşil tendonunun üzerine gelecek şekilde ayarlayın. Makineye yüz üstü uzanın, ayaklarınızı pedlere dayayın, tutamaçları tutun, nefes alın ve ardından nefes vererek orta hızda bacaklarınızı geriye doğru bükün. Pedler kalçanıza değene kadar bunu yapın. Tamamen saldığınızda bekleme yapmadan tekrar bacaklarınızı geriye doğru bükün."
-},
-{
-    "id": 34,
-    "movement_name": "Deadlift",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/deadlift.png?raw=true",
-    "yapilis":"Uygun ağırlıkları taktığınız barbell’i ayaklarınızın ucuna alın. Ayaklarınız omuz genişliğiniz kadar açık olsun ve parmak uçlarınız tam karşıya baksın.  Barbell alt bacaktaki kaval kemiğinize temas edecek kadar yakın olmalı. Bu pozisyonda alt bacağınız yere mümkün olduğunca dik, üst bacağınız yere 45 derece açıda olmalı. Üst gövdeniz ise yere eğik ve üst bacağa 90 derece açıyı tamamlamalı. Bel – Sırt – Enseniz ise düz bir çizgi halinde olmalı. Nefes alın ve ardından nefes vererek ağırlığı orta hızda yukarı doğru çekmeye başlayın. Yukarı doğru kalkarken bel – sırt – ense doğrultusunu bozmayın. Son noktaya geldiğinizde vücudunuz yere tam dik bir pozisyonda olacak. Nefes alarak orta hızda başlangıç pozisyonunuza dönün. Nefes vererek  tekrar kaldırın."
-},
-{
-    "id": 35,
-    "movement_name": "Goblet Squat",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/gobletsquat.png?raw=true",
-    "yapilis":"Ayaklarınızı standart gelişim için omuz mesafeniz kadar açın. Uygun ağırlıktaki dumbbellı tepe kısmından sağlam bir şekilde kavrayın ve çene hizanıza kadar kaldırın. Nefes alın ve ardından çömelmeye başlayın. Üst bacaklarınız yani dirsek ve kalça arası yere paralel olana kadar çömelin. Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek 1 – 1,5 saniye aralığında ayaklarınız yere tamamen dik olana kadar kalkın. Tepe noktaya ulaştığınızda yine aynı şekilde bekleme yapmadan çömelmeye başlayın."
-},
-{
-    "id": 36,
-    "movement_name": "Dumbbell Squat",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellsquat.jpg?raw=true",
-    "yapilis":"Ellerinizi yormayacak yani egzersizi yarıda bırakmanıza neden olmayacak ağırlıkta iki adet dumbbell alın. Avuç içleriniz vücuda bakar halde olsun. Ayaklarınızı omuz genişliğinizden biraz daha fazla açın ve parmak uçlarınız karşıya baksın. Bu ayak genişliği iniş ve kalkış anında bacakların dumbbellar’a çarpmayacağı bir genişlik olmalı. Dik pozisyondayken nefes alarak çömelmeye başlayın. Kollar tüm hareket boyunca yere sarkık vaziyette olacak. Üst bacağınız yani diz ve kalça arasında ki kısım yere paralel oluncaya kadar orta yavaş bir hızda çömelmenizi yapın. Göğsünüz dik ve başınız ileri bakar pozisyonda olsun. Üst gövdenizi yere eğmemeye çalışın. Son noktaya vardığınızda beklemeden, nefes vererek orta hızda yükselmeye başlayın. Tepe noktaya ulaştığınızda yine beklemeden nefes alarak çömelin."
-},
-{
-    "id": 37,
-    "movement_name": "Seated Machine Hip Adduction",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/seatedmachine%20hipadduction.jpg?raw=true",
-    "yapilis":"Başlangıç pozisyonu için bacaklarınızı eklem zorlanmasına dikkat ederek yapabildiğiniz kadar açın. Yanda ki tutamaçları sıkıca kavrayıp destek alın. Nefes alın ve ardından nefes vererek bacaklarınızı orta hızda kapatmaya başlayın. Makinenin pedleri birbirine değene kadar kapatın. Son noktaya geldiğinizde bir saniye kadar bekleyip orta – yavaş hızda bacaklarınızı açmaya başlayın. Yavaş hızda açmamızın nedeni ise açış anında da kasların yüke direnç gösterip gelişmeye devam etmesidir. "
-},
-{
-    "id": 38,
-    "movement_name": "Barbell Squat",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/thebarbellsquat.png?raw=true",
-    "yapilis":"Ayaklarınızı omuz genişliğinde açın. Karın kaslarınızı sıkın. Barbell’i göğüs hizanıza dek kaldırın ve dengeleyin. Nefes alın. Aşağı doğru inmeye başlayın. İnerken yere paralel olana kadar devam edin. Doğru pozisyona geldiğinizde birkaç saniye bekleyin. Nefes verin. Başlangıç pozisyonuna geçin."
-},
-{
-    "id": 39,
-    "movement_name": "Standing Leg Curl",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/standinglegcurl.jpg?raw=true",
-    "yapilis":"Tutamaçlara tutunup vücudu sabitleyip güç alın. Nefes alın ve ardından nefes vererek çalıştıracağınız bacağınızı sadece dizden kırarak geriye doğru kuvvetlice orta hızda bükün. Tepe noktasına ulaştığınızda bir saniye kadar bekleyin ve nefes alarak orta-yavaş hızda aşağı doğru salın. Bacak yere dik pozisyona geldiğinde bekleme yapmadan tekrar bükün ve tepe noktasında tekrar bir saniye bekleyin."
-},
-{
-    "id": 40,
-    "movement_name": "Front Squat",
-    "icon_type": "2",
-    "area": "Bacak",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/frontsquat.JPG?raw=true",
-    "yapilis":"Barı ön omuzunuza gelecek şekilde oturtun her iki elinizle barı vücudunuza sabitleyin. Ayaklarınızı omuz genişliğiniz kadar açın. Parmak uçlarınız karşıya bakmalı. Nefes alarak çömelmeye başlayın. Üst bacağınız yere paralel oluncaya kadar çömelin. Çömelme anını yavaş yaparsanız hamstrings yani arka bacak kasları daha etkin şekilde çalışacaktır. Son noktaya geldiğiniz de nefes vererek orta hızda kontrollü bir şekilde yükselmeye başlayın. Tepe noktaya geldiğinizde bekleme yapmadan nefes alarak tekrar inişe geçin."
-},
-{
-    "id": 41,
-    "movement_name": "Pull Up",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/pullup.png?raw=true",
-    "yapilis":"Barfiks barını omuz hizasında ya da biraz geniş tutmalıyız. Ayaklarımız bileklerimiz üst üste gelecek şekilde durmalıyız. Nefesimizi vererek kendimizi göğse kadar, yukarı çekmeliyiz, nefesimizi alarak geri aşağıya doğru bırakmalıyız."
-},
-{
-    "id": 42,
-    "movement_name": "Hyper Extension",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/hyperextension.png?raw=true",
-    "yapilis":"Bir ters mekik sehpasına yüzüstü yatın, ayak dayama ve karın dayama yerlerinin uygun ayarlandığından emin olun. Hareketten tam anlamıyla verim almak için kasıklarınız karın dayama yerine gelmeli. Pozisyonunuzu aldıktan sonra vücudunuz tam düz olacak şekilde başlangıç pozisyonuna geçin. Nefes alarak üst gövdenizi 45 derecelik bir açı yaratıncaya kadar aşağıya indirin. Bir saniye kadar bekleyin ve nefes vererek başlangıç pozisyonuna dönün. Yukarı kalktığınızda 2 saniye kadar durun ve tekrar üst gövdenizi aşağı indirin. Set sayısı kadar yapıp hareketi tamamlayın."
-},
-{
-    "id": 43,
-    "movement_name": "Lat Pull Down",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/latpulldown.jpg?raw=true",
-    "yapilis":"Wide grip bar’ı lat pulldown makinesine takın. Uygun bir ağırlık seçin. El açıklığınız omuz genişliğinizden biraz daha fazla ve avuç içleri karşıya bakar şekilde barı kavrayın ve sehpaya oturun. Çekiş anında şuna dikkat etmelisiniz. Üst vücut mümkün olduğunca yere dik olarak kalmalı. Yani çekiş ve salış anlarında üst vücudu yatırıp kaldırarak çekişi kolaylaştırma amaçlı ivme kazanmayın. Çekişi sadece kanat kaslarınızı kullanarak yapmalısınız. Üst vücut yere dik olarak çekişe başlamalı ve çekiş anında bel kısmına hafif bir es verilip göğüs ileri itilmeli, bar tam olarak üst göğüs üzerine çekilmelidir. Nefes vererek, her iki elinizle barı kavrayıp, barın göğsünüzün üst noktasına değmesine bir kaç cm mesafe kalana kadar, orta- yavaş bir hızda çekin. Son noktaya geldiğinizde bir saniye kadar bekleyin ve nefes alarak barı orta- yavaş bir hızda yukarı doğru salın."
-},
-{
-    "id": 44,
-    "movement_name": "Reverse Cable Croosover",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/reversecablecroosover.jpg?raw=true",
-    "yapilis":"Cable Cross makinesin’de makara guruplarını göğüs hizanızla aynı seviyeye çekin. Çok ağır olmayan bir ağırlık seçip tutamaçları sırasıyla tutun ve makineyi ortalayın. Ortaladıktan sonra kollarınız açık pozisyondayken bir adım kadar öne çıkın. Dengenizi sağlamak için bir ayağınızı geriye atabilirsiniz. Vücudunuzun üst kısmı mutlaka düz bir vaziyette olmalı. Nefes vererek açık pozisyonda ve yere paralel olan kollarınızı kırmadan öne doğru kapatmaya başlayın. Hızınız orta bir hız olsun. Maksimum seviyede göğüs kaslarınıza odaklanın.  Kol ve omuz kaslarınızdan yardım almamaya çalışın. Elleriniz birbirine değip son noktaya geldiğinizde harekete devam edip eller birbirini geçer ve çapraz pozisyona getirirseniz Pectoralis major inner yani göğüs kaslarının iç kısmı daha çok çalışır ve göğüs kaslarınız arasında ki boşluğu doldurmak için fırsat yaratmış olursunuz. Nefes alarak sıkıştırma hızınıza göre daha düşük bir hızda kollarınızı kırmadan her iki yana açın."
-},
-{
-    "id": 45,
-    "movement_name": "Deadlift",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/deadlift.png?raw=true",
-    "yapilis":"Uygun ağırlıkları taktığınız barbell’i ayaklarınızın ucuna alın. Ayaklarınız omuz genişliğiniz kadar açık olsun ve parmak uçlarınız tam karşıya baksın.  Barbell alt bacaktaki kaval kemiğinize temas edecek kadar yakın olmalı. Bu pozisyonda alt bacağınız yere mümkün olduğunca dik, üst bacağınız yere 45 derece açıda olmalı. Üst gövdeniz ise yere eğik ve üst bacağa 90 derece açıyı tamamlamalı. Bel – Sırt – Enseniz ise düz bir çizgi halinde olmalı. Nefes alın ve ardından nefes vererek ağırlığı orta hızda yukarı doğru çekmeye başlayın. Yukarı doğru kalkarken bel – sırt – ense doğrultusunu bozmayın. Son noktaya geldiğinizde vücudunuz yere tam dik bir pozisyonda olacak. Nefes alarak orta hızda başlangıç pozisyonunuza dönün. Nefes vererek  tekrar kaldırın."
-},
-{
-    "id": 46,
-    "movement_name": "Barfiks",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/barfiks.png?raw=true",
-    "yapilis":"Kollarınızı omuz genişliğinden biraz daha fazla açarak barfiks barını üstten tutuşla kavrayın. Kollarınızı düzleştirerek havada asılı durun. Bu esnada karın kaslarınızı da sıkarak harekete dahil edin. Karın kaslarınızı kullanarak, vücudunuzu savurmadan kendinizi yukarı çekin ve çenenizi ellerinizle aynı hizaya getirmeye çalışın. Hareketin tepe noktasında bir an duraklayın ve kürek kemiklerinizi birbirine yaklaştırarak sıkıştırma yapın. Ardından kontrollü ve yavaş bir şekilde kollarınız tamamen düzleşene kadar alçalın."
-},
-{
-    "id": 47,
-    "movement_name": "Dumbbell Row",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellrow.jpg?raw=true",
-    "yapilis":"Düz bir bench’e sağ dizinizi ve sağ elinizi koyun. Sol elinizi yere, dumbbell’a doğru sarkıtın.  Burada en çok dikkat etmeniz gereken üst vücudunuzu yere paralel olarak tutmaktır. Nefes alın ve ardından nefes vererek, uygun ağırlıkta seçtiğiniz dumbbell’i kontrollü bir şekilde orta hızda yukarı doğru çekin. Son noktaya geldiğinizde dirseğinizin dışarıya doğru açılmadığından emin olun. Üst kol ve ön kolunuz çekiş sırasında vücuda neredeyse bitişik bir şekilde hareket etmeli. Tepe noktasında bir saniye kadar bekledikten sonra nefes alarak orta yavaş bir hızda dumbbell’ı aşağı doğru salın. Kolunuz tamamen yere uzandığında bekleme yapmadan nefes vererek tekrar yukarı doğru çekin. Tekrar sayısı kadar yaptıktan sonra diğer kola geçin ve seti tamamlayın."
-},
-{
-    "id": 48,
-    "movement_name": "Bent Over Barbell Row",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/bentoverbarbellrows.jpg?raw=true",
-    "yapilis":"Ayaklarınızı bir omuz genişliği açıp parmak uçlarınızın tam karşıya baktığından emin olun. Dizlerinizi hafifçe kırın ve kalçayı biraz dışarı itin. Sırtınız yere yaklaşık  40-45 derece açıyla durmalı. Şimdi uygun ağırlığı taktığınız barbell’i üstten tutuşla kavrayın. Elleriniz omuz genişliğiniz kadar açık olmalı. Avuç içlerinizin biri içeri, biri dışarı bakması ağırlığı daha iyi kavramanızı sağlayacaktır. Nefes alın ve ardından nefes vererek  kontrollü bir şekilde barbell’i karnınıza kadar çekin. 0,5 saniye kadar bekledikten sonra  nefes alarak kaldırış hızınıza göre daha yavaş bir hızda aşağı doğru salın. Dip noktaya ulaştığınızda bekleme yapmadan, nefes vererek tekrar yukarı çekin. Tekrar sayısı kadar yapıp setinizi tamamlayın."
-},
-{
-    "id": 49,
-    "movement_name": "Reverse Fly",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/reversefly.jpg?raw=true",
-    "yapilis":"Yüzünüz makineye bakacak şekilde oturun, göğsünüzü reverse pec dec makinesinin pedine yaslayın. Üst vücudunuz yere dik pozisyonda olsun. Her iki elinizi ileri uzatıp tutamaçları kavrayın. Dirseklerinizi çok az bükün. Nefes alın ve ardından nefes vererek 1,5 saniye aralığında kollarınızı geriye doğru açmaya başlayın. Kollar açıldıkça  dirsek bükümünüde azaltmaya başlayın. Son noktaya geldiğinizde kürek kemiklerinizi olabildiğince birbirine yaklaştırmaya çalışın. 1 saniye kadar bekleyin ve ardından nefes alarak 1,5-2 saniye aralığında kolları öne doğru yüke direnç göstererek salmaya başlayın. Kollar kapanınca bekleme yapmadan tekrar açmaya başlayın."
-},
-{
-    "id": 50,
-    "movement_name": "Dumbbell Pull Over",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellpullover.png?raw=true",
-    "yapilis":"Düz bir bench’e tamamen yatın ve boynunuzun bench’ten taşmasına dikkat edin. Bench’in bitimi  omuz hizası ile aynı olmalıdır. Uygun ağırlıkta seçtiğiniz dumbbell’ı iki elinizle sıkıca kavrayın ve yukarı kaldırın. Bu başlangıç pozisyonunuz olacak. Hareket boyunca mümkün olduğu kadar kollarınızı kırmamalısınız. Nefes alarak, yavaş bir hızda dumbbell’ı olabildiğince başınızdan geriye doğru indirin. Son noktaya gelince bir saniye kadar bekledikten sonra kolları kırmadan, nefes vererek dumbbell’ı yukarı kaldırın. Bitiş anında kollar tamamen yere dik olmalı."
-},
-{
-    "id": 51,
-    "movement_name": "One Arm Dumbbell Row",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/onearmdumbbellrow.jpg?raw=true",
-    "yapilis":"Düz bir bench’e sağ dizinizi ve sağ elinizi koyun. Sol elinizi yere, dumbbell’a doğru sarkıtın.  Burada en çok dikkat etmeniz gereken üst vücudunuzu yere paralel olarak tutmaktır. Nefes alın ve ardından nefes vererek, uygun ağırlıkta seçtiğiniz dumbbell’i kontrollü bir şekilde orta hızda yukarı doğru çekin. Son noktaya geldiğinizde dirseğinizin dışarıya doğru açılmadığından emin olun. Üst kol ve ön kolunuz çekiş sırasında vücuda neredeyse bitişik bir şekilde hareket etmeli. Tepe noktasında bir saniye kadar bekledikten sonra nefes alarak orta yavaş bir hızda dumbbell’ı aşağı doğru salın. Kolunuz tamamen yere uzandığında bekleme yapmadan nefes vererek tekrar yukarı doğru çekin. Tekrar sayısı kadar yaptıktan sonra diğer kola geçin ve seti tamamlayın."
-},
-{
-    "id": 52,
-    "movement_name": "Dumbbell Shrug",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellshrug.png?raw=true",
-    "yapilis":"Orta-üst ağırlıkta iki adet dumbbell’ı ellerinize alıp aşağı doğru sarkık vaziyette durun. Avuç içleriniz vücudunuza bakacak şekilde olmalı. Eğer gireceğiniz ağırlık fazla ise dengenizi sağlayabilmeniz için ayak genişliğinizi, omuz genişliğinizin kadar açabilirsiniz. Hafif bir ağırlık ise ayaklarınız kapalı ya da yarı açık olabilir. Burada dikkat edeceğiniz püf noktası ise hareketi yaparken sadece trapez kaslarınıza yoğunlaşmanızdır. Nefes alın ve ardından nefes vererek her iki dumbbell’ı da trapez kaslarınızı kullanarak yukarı doğru çekin.  Ardından nefes alarak,  çekiş hızınıza oranla daha yavaş bir hızda aşağı doğru salın.Nefes alın ve ardından nefes vererek her iki dumbbell’ı da trapez kaslarınızı kullanarak yukarı doğru çekin.  Ardından nefes alarak,  çekiş hızınıza oranla daha yavaş bir hızda aşağı doğru salın."
-},
-{
-    "id": 53,
-    "movement_name": "Seated Row",
-    "icon_type": "3",
-    "area": "Sırt",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/seatedrow.jpg?raw=true",
-    "yapilis":"Cable row makinesine V-bar ı takın, uygun bir ağırlık seçin ve makinenin sehpasına oturun. Oturuşu düzeltmeye ayaklardan başlayalım. Ayaklarınızı makinenin ayaklıklarına  koyun. Parmak uçları tam karşıya bakacak ve dizlerinizi hafifçe kıracaksınız. En çok yapılan hata dizleri kırmadan ayakları dayamaktır. V-bar’ı iki elinizle kavrayıp kollarınızı öne doğru uzatın. Burada dikkat edilmesi gereken, kolları uzatıldığında üst vücudu tam dik konumda tutmaktır. Nefes alın ve ardından nefesinizi vererek v-bar’ı kendinize doğru çekin. Son noktaya geldiğinizde kürek kemiklerinizi yapabildiğiniz kadar birbirine yaklaştırın. Son noktada bir saniye kadar bekledikten sonra, çekiş hızınıza oranla daha yavaş bir hızda v-bar’ı salın. Çekme ve salma yaparken kesinlikle vücudunuzu ileri – geri yatırmayın. *"
-},
-{
-    "id": 54,
-    "movement_name": "Barbell Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/barbellcurl.png?raw=true",
-    "yapilis":"Dik durun Ayaklarınızı ve kollarınızı omuz hizasında açın. Avuç içleri karşı tarafa bakacak şekilde demir bar tutulur. Dirsekler sabit kalarak ağırlık yukarı doğru kaldırılır. Barı ön omuz hizasına kadar kaldırın. Yukarı Kaldırırken nefes verin. Yavaşça aşağı indirirken nefes alarak başlangıç pozisyonuna dönün."
-},
-{
-    "id": 55,
-    "movement_name": "Dumbbell Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellcurl.png?raw=true",
-    "yapilis":"Ayaklar omuz hizasında açılır. Avuç içleri kalçanıza bakacak şekilde dummbell ağırlıkları tutulur. Dirsekler sabit kalarak ağırlıklar yukarı doğru kaldırılır. Ağırlıkların kaldırılması sırasında avuç içleri yüzümüze bakacak pozisyonda bilekler döndürülür. Yukarı kaldırırken nefes verin. Yavaşça aşağı indirirken nefes alarak başlangıç pozisyonuna dönün."
-},
-{
-    "id": 56,
-    "movement_name": "Hammer Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/hammercurl.png?raw=true",
-    "yapilis":"Her iki elinizle Dumbell alın. Avuç içlerini vücudunuza bakıcak şekilde olsun. Ayakları omuz hizasında açın. Dirseklerinizi sabit tutarak sırayla omuz başına doğru yavaşça kaldırın. Kaldırırken nefes alın, nefes vererek indirdikten sonra diğer kolu kaldırarak hareketi tamamlayın."
-},
-{
-    "id": 57,
-    "movement_name": "Dumbell Concentration Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/concentrationcurl.png?raw=true",
-    "yapilis":"Önünüzde bir dambıl alarak bacaklarınızı birbirinden ayırarak bir sehpada oturun. Dambılı sağ elinizle alın ve sağ kolunuzu sağ uyluğunuzun (baldırın iç kısmı) içine yaslayın. Dirseğiniz uyluğunuzun üstünden daha alçakta olmalıdır, böylece dirseğiniz dönmez ve sağ kolunuz neredeyse tamamen uzatılmış olur. Sırtınızı düz ve üst kolu sabit tutun. Sadece ön kolunuz hareket etmelidir. Avucunuz yüzünüze doğru bakmalıdır. Sırtınızı desteklemek için sol kolunuzu dizinize yaslayabilirsiniz. Dambılı yukarı doğru kıvırırken nefes verin. İndirirken nefes alın ve set sayısı kadar tekrarlayın."
-},
-{
-    "id": 58,
-    "movement_name": "Cable Biceps Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/cablebicepscurl.png?raw=true",
-    "yapilis":"Dirsekler sabit kalarak ağırlık yukarı doğru kaldırılır. Ağırlıkların kaldırılması sırasında avuç içleri yüzümüze bakacak pozisyonda bilekler döndürülür. Yukarı Kaldırırken nefes verin. Yavaşça aşağı indirirken nefes alarak başlangıç pozisyonuna dönün."
-},
-{
-    "id": 59,
-    "movement_name": "Seated Dumbbell Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/seatedinclinedumbbell.jpg?raw=true",
-    "yapilis":"Bir bench’in ucuna üst vücudunuz tam dik olacak şekilde oturun. Her iki elinize birer dumbbell alarak avuç içleri vücudunuza dönük ve yere tam sarkık olarak tutun. Nefes alın ve ardından nefes vererek 1 – 1,5 saniye aralığında dumbbell’ı kaldırabildiğiniz son noktaya kadar kaldırın. Kaldırırken bileğinizi yukarı bakacak şekilde rotasyon yapın. Tepe noktaya ulaştığınızda 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında dumbbell’ı aşağı sarkıtarak kolunuzu tam açın. Dip noktaya ulaştığınızda bekleme yapmadan, nefes vererek diğer kolunuzu kaldırmaya başlayın."
-},
-{
-    "id": 60,
-    "movement_name": "Preacher Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/preachercurl.png?raw=true",
-    "yapilis":"Hareketi ayakta ve oturarak yapmanız mümkün. Ayakta yapacaksanız ağırlık kaldırdığınız kol ile aynı taraftaki ayağınız bir adım önde olmalı. Koltuk altınızı tamamen sehpaya yaslayın. Kafanızı kaldırıp paralel bir duruş vaziyeti oluşturun. Ağırlığı kollarınız tamamen açılana kadar indirin. Nefes vererek Kendinize doğru kaldırın."
-},
-{
-    "id": 61,
-    "movement_name": "Biceps Curl Machine",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/bicepscurlmachine.jpg?raw=true",
-    "yapilis":"Makineye oturun ve koltuk altlarınız makinenin yastığına tam oturacak şekilde pozisyon alın. Kalça kısmınızı da biraz geriye verin. Eğer yapabiliyorsanız bacaklarınızı makinenin alt demirlerine yaslayarak ön kollarınız hariç tüm vücudunuz sabit hale getirin. Ağırlık kolunu sıkıca kavrayın. Nefes alın ve ardından nefes vererek, 1 – 1,5 saniye aralığında, tutamacı üst kollarınız yere dik oluncaya kadar kaldırın. Tepe noktaya geldiğinizde 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında kollarınızı açmaya başlayın. Dip noktaya ulaştığınızda kollarınız tamamen açık olmalı, biceps kasınızda gerginliği hissetmelisiniz. Dip noktaya ulaşınca bekleme yapmadan tekrar kaldırmaya geçin."
-},
-{
-    "id": 62,
-    "movement_name": "Dumbell Incline Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/inclinedumbbellcurl.jpg?raw=true",
-    "yapilis":"Incline bench dumbbell curl hareketini yapmak için eğimli sehpaya sırt üstü uzanılır. Her iki ele alınan uygun ağırlıktaki dumbellar, avuç içleri karşıya bakacak şekilde aşağı doğru sallanır. Vücut dik ve sehpaya tamamen yaslanmış durumdadır. Doğru şekilde konumlandıktan sonra dumbellar, dirsekleri kırarak omuz hizasına doğru, nefes vererek kaldırılır. Burada, kolun omuzdan dirseklere kadar olan kısmını ileri geri hareket ettirmeden sabit tutup, yalnızca dirsek-el arası bölümünü yukarı aşağı hareket ettirerek dumbelları kaldırmak gerekir. Bu şekilde 1 saniye kaldıktan sonra nefes alarak ilk konuma dönülür."
-},
-{
-    "id": 63,
-    "movement_name": "Barbell Reverse Curl",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/barbellreversecurl.png?raw=true",
-    "yapilis":"Orta ağırlıkta olan barbell’i üstten tutuş ile yani avuç içleri aşağı bakar pozisyonda kavrayalım. Kollar omuz genişliğinde olsun. Ayaklarınızı dengeyi sağlayabilmek için omuz genişliği kadar açın. Nefes alın ve ardından nefes vererek barbell’i kollarınız tam kapanıncaya kadar 1 – 1,5 saniye aralığında yukarı kaldırın. 1 saniye kadar tepe noktada bekleyip ardından nefes alarak 1,5 – 2 saniye aralığında kollarınızı aşağı salın. Dip noktaya salarken, barbell’in vücuda değmesine 10 cm kala salmayı kesin ve bekleme yapmadan tekrar kaldırışa geçin."
-},
-{
-    "id": 64,
-    "movement_name": "Chin Up",
-    "icon_type": "4",
-    "area": "Ön Kol (Biceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/chinup.jpg?raw=true",
-    "yapilis":"Barfiks barını tutarken kollar omuz genişliğinde açılmalı. Barfiks barını tutan eller yüze bakmalı. Bedeninizi yukarı doğru çekerken pazı kaslarınızı sıkmalısınız. Yukarı çekerken çok yavaş hareket edilmeli. Doğru nefes alınmalı. İnme esnasında yine yavaş davranılır. Hareket esnasında sırtınız dik olmalı. Ayaklarınızı arkadan birleştirin ve dizlerinizi kırın."
-},
-{
-    "id": 65,
-    "movement_name": "Overhead dumbbell extension",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/overheaddumbbellextension.jpg?raw=true",
-    "yapilis":"Bir bench’in üzerine oturun. Dengeyi sağlamak amaçlı ayaklarınızı açın. Uygun ağırlıkta bir dumbbel’ı her iki elinizle sıkıca kavrayıp başınızın arkasına alın. Bu başlangıç pozisyonunuz olacak. Dirsekleriniz ne çok açık ne de çok kapalı bir pozisyonda olsun. Nefes alın ve ardından nefes vererek triceps’lerinize odaklanarak dumbbell’ı yukarı doğru itin.Tepe noktasına geldiğiniz de bekleme yapmadan kaldırış hızınıza oranla biraz daha yavaş bir hızla, nefes alarak aşağıya doğru kontrollü bir şekilde indirin.Dip noktaya ulaştığınızda bekleme yapmadan tekrar kaldırışa geçin."
-},
-{
-    "id": 66,
-    "movement_name": "Cable pushdown",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/cablepushdown.png?raw=true",
-    "yapilis":"Makineye uygun ağırlık ve kısa triceps barı takılır.  Makara grubu en yükseğe kaldırılır. Eller arasında yaklaşık 20 cm mesafe kalacak şekilde ve avuç içleri aşağı bakacak pozisyonda bar kavranır.Omuz ve dirsek arası yani üst kol yere dik ve vücuda mümkün olduğu kadar bitişik şekilde tutulur. Dirsek ve el arası yani ön kol yere paralel ya da biraz daha yukarıda duracak şekle getirilir. Bu başlangıç pozisyonudur.İki çeşit ayak duruşu vardır. Birincisi : Bir ayak ileride ve vücut yükü onun üzerinde, diğer ayak biraz arkada ve parmak ucu yere basık topuk biraz kalkık, bel biraz eğik ve göğüs biraz ileride. İkincisi: Ayaklar aynı hizada ve yere tam basık, bel düz, göğüs biraz ileride.Hazırsanız nefes alın ve ardından nefes vererek 1 – 1,5 saniye aralığında yere paralel olan ön kolunuzu, yere dik olana kadar indirmeye başlayın. Dip noktaya ulaştığınızda nefes alarak ön kolunuzu 1 – 1,5 saniye aralığında yere paralel olana kadar kaldırmaya başlayın."
-},
-{
-    "id": 67,
-    "movement_name": "Rope PushDown",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/ropepushdown.png?raw=true",
-    "yapilis":"Triceps istasyonu ya da cable cross makinesine halatı takın.Orta bir ağırlık seçin. Vücudunuzu düz tutun. Üst resimdeki kadar mesafede makineye yaklaşın. Eğer yüksek bir ağırlık girecekseniz belinizi korumak için bir adım öne atabilir, ya da dizlere biraz açı verip kalçayı biraz geri itebilirsiniz.Hareket boyunca üst kollarınız yere dik ve vücuda olabildiğince bitişik olacak.Nefes alın ve ardından nefesinizi vererek ön kollarınızı yere paralel halden, aşağı doğru yere dik olana kadar, ellerinize fleksiyon vererek halatı itin. Ön kollar yere tam dik olunca bekleme yapmadan, nefes alarak ve itiş hızınıza göre daha yavaş bir hızda halatı yukarı doğru salın.Ön kollarınız yere paralel hale gelince salışı kesin ve bekleme yapmadan nefes vererek tekrar itişe geçin."
-},
-{
-    "id": 68,
-    "movement_name": "One Arm Reverse Pushdown",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/onearmreversegrippushdown.jpg?raw=true",
-    "yapilis":"Tel kablo ile yapılan bir harekettir.Dirseğinizi vücudunuza doğru kitleyin.Dirsekler sabit kalarak, Omuz hizasında bükme işlemini gerçekleştirin.Bükme işlemi sırasında nefes alın.Çekme işlemi sırasında nefesinizi verin ve kolunuzu 1 saniye gerilme noktasında sabit tutun.Hareketin vermiş olduğu gerginliği hissettiğinizde tekrar başlangıç pozisyonuna geri dönün."
-},
-{
-    "id": 69,
-    "movement_name": "Bench Dips",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/benchdips.jpg?raw=true",
-    "yapilis":"Elleriniz arkada olacak şekilde sehpaya sırtınızı verin.Ayaklarınızı önde tutun ve vücudunuzun ağırlığı kollarınız tarafından desteklenecek şekilde, Ellerinizle sehpadan destek alarak vücudunuzu aşağı doğru indirin.Dirseklerinizi bükerken nefes verin ve omuzlarınızda hafif bir gerginlik hissedene veya dirsekleriniz 90 derecelik bir açı elde edene kadar vücudunuzu indirin.Hareketi biraz daha zorlaştırmak için ayaklarınızı karşınızda bulunan aynı boyda sehpaya uzatarak ve üzerinize ağırlık koyarak uygulayabilirsiniz."
-},
-{
-    "id": 70,
-    "movement_name": "Skull Crusher",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/skullcrusher.jpg?raw=true",
-    "yapilis":"Uygun ağırlıkta bir ez bar seçin ve düz bench sehpasının üzerine kafanız biraz dışarıda kalacak kadar uzanın.Üst kolunuzu başınız tarafına doğru yaklaşık 30° derece gibi bir eğim verin.Hareket boyunca üst kolunuz tamamen hareketsiz kalacak. Sadece ön kolunuz hareket edecek.Ez barı başınızın arkasına olabildiğince sarkıtın ve nefes vererek 1 – 1,5 saniye aralığında,  üst kol ve ön kolunuz düz bir çizgi oluncaya dek kaldırın. Tepe noktaya ulaştığınızda 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında, üst kolunuzu sabit tutarak barı başınızın arkasına doğru indirmeye başlayın.Dip noktaya ulaştığınızda bekleme yapmadan, nefes vererek tekrar kaldırmaya başlayın. Set boyunca dirseklerinizi omuz genişliğizden daha fazla açmamaya özen gösterin."
-},
-{
-    "id": 71,
-    "movement_name": "Triceps Dumbbell Kickback",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/tricepsdumbbellkickback.jpg?raw=true",
-    "yapilis":"Bench sehpasının üzerine bir dizinizi ve aynı kısımdaki elinizi koyarak üst vücudu yere eğimli hale getirin.Şimdi üst kolunuzu (omuz ve dirsek arası) yere paralel hale getirin ve uygun ağırlıktaki dumbbell’i kavramış olan ön kolunuzu (dirsek ve el arası) yere dik konuma getirin ve başlangıç pozisyonunuzu alın.Nefes alın ve ardından nefes vererek 1 – 1,5 saniye aralığında ön kolunuzu yere dik halden yere paralel hale gelene kadar geriye doğru itin.Bunu yaparken kolu dışarıya doğru açmayın. Kol vücuda paralel halde hareket etmeli.Ön kol yere paralel hale geldiğinde tepe noktada 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında ön kolu yere paralel olmasına  yaklaşık 5° derece kalana kadar indirin.Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek tekrar kaldırışa geçin."
-},
-{
-    "id": 72,
-    "movement_name": "Close Grip Bench Press",
-    "icon_type": "5",
-    "area": "Arka Kol (Triceps)",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/closegripbench.png?raw=true",
-    "yapilis":"Bu hareket bench press sehpahasın'da, normal düz benchte ya da smith machine'de yapılabilir. Bench’e uzanın. Sırtınız sehpaya tam temas halinde ve ayaklarınız dengeyi sağlamak amaçlı biraz açık ve yere tam basar pozisyonda olsun.İki eliniz arasında  yaklaşık 15 – 20 cm mesafe kalacak şekilde barı kavrayın. Bu başlangıç pozisyonunuz olacak.Standart Bench press göğüs egzersizi ile karıştırıp yüksek ağırlık takmayın. İlk denemeniz ise boş barla yapsanız iyi olur.Nefes alın ve ardından nefes vererek, barı  yukarı doğru, kollar dümdüz olana kadar itin.Son noktaya ulaşınca bir saniye kadar bekledikten sonra  barı kontrollü bir şekilde indirin."
-},
-{
-    "id": 73,
-    "movement_name": "Abdominal Crunch",
-    "icon_type": "6",
-    "area": "Karın",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/abdominalcrunch.jpg?raw=true",
-    "yapilis":"Sırt üstü uzanıyoruz ve dizleri vücuda çekerek kırın.Nefes vererek hafifçe kalkıyoruz ve dirseklerin arasındaki mesafeyi biraz kapatıyoruz ve yavaşça nefes alarak sırtüstü yatıyoruz ve dirsekleri her iki yana açıyoruz , dirsekleri açıp kapatırsanız hareket daha etkili olur.Harekete başlamadan mutlaka ısınma yapın."
-},
-{
-    "id": 74,
-    "movement_name": "Legs Up Crunch",
-    "icon_type": "6",
-    "area": "Karın",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/legsupcrunch.jpg?raw=true",
-    "yapilis":"Matın üzerinde yere sırt üstü uzanın.Ayak parmaklarınızı kendinize doğru çekerek her iki ayağı yere dik ve dizleri kırmadan düz bir şekilde yukarıya uzatın.Ellerinizi başınızın altına boynun yanlarına yerleştirin. Dirseklerin açık durmasına dikkat edin.Baş ve gövdeyi kürek kemiklerinizin tamamı yerden kalkacak şekilde yukarıya yükselin. Bu pozisyonda bir süre kalarak başladığınız noktaya geri dönebilirsiniz."
-},
-{
-    "id": 75,
-    "movement_name": "Side Crunch",
-    "icon_type": "6",
-    "area": "Karın",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/sidecrunch.jpg?raw=true",
-    "yapilis":"Yan pozisyonda yere yatılır ve vücut mümkün olduğu kadar yukarı kaldırılmaya çalışılır ki yan bölgeler iyice sıkışsın ve iyi bir şekilde çalışsın."
-},
-{
-    "id": 76,
-    "movement_name": "Plank",
-    "icon_type": "6",
-    "area": "Karın",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/plank.jpg?raw=true",
-    "yapilis":"Yüz üstü yere uzanın.Topuktan enseye kadar vücudunuz düz bir çizgi halinde olmalı.Dirsekleriniz ileriye doğru ve yere tam temas halinde olsun. Üst kol ise yere dik olacak.Nefes alın ve süreyi başlatın.Hareket boyunca karın kaslarınızı sonuna kadar kasın. Bölgede mükemmel bir yanma hissi duyuncaya kadar devam edin.Gücünüzün tamamı tükenince hareketi bırakın."
-},
-{
-    "id": 77,
-    "movement_name": "Lying Legs Up",
-    "icon_type": "6",
-    "area": "Karın",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/lyinglegsup.JPG?raw=true",
-    "yapilis":"Eller gövdenin yanında yerle temas ediyor baş yerle temas ediyor.Kalça hareket boyunca yerle temas ediyor.Bacaklar düz bir şekilde gövdeyle 90 derece açı yapacak kadar yükseltilir.Kontrollü bir şekilde bacak dümdüz tekrar başlangıç pozisyonuna dönülür.Sırtın yerden kalkmasına engel olunmalıdır bunun için ellerinizle bir yere tutunabilirsiniz."
-},
-{
-    "id": 78,
-    "movement_name": "Seated Knee Up",
-    "icon_type": "6",
-    "area": "Karın",
-    "image": "https://github.com/meaglandroid/bfit/blob/main/seatedkneeup.JPG?raw=true",
-    "yapilis":"Düz bir sıra kenarına oturarak, ellerle kenarlar sıkıca kavranır. Vücut sıra ile yaklaşık 35-40 derecelik bir açı oluşturmalıdır. Bacaklar dışarıda ve boştadır. Bu durumda dizler nefes vererek göğse doğru kontrollü ve yavaşça çekilir, nefes alarak en alt pozisyona gelinceye kadar bacaklar aşağı indirilir."
-}]
-}
+    {
+        "id": 1,
+        "movement_name": "Barbell Bench Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/barbellbenchpress.png?raw=true",
+        "desc": "Bench sehpasına düz bir şekilde uzanın. Ayaklarınızı sehpanın her iki yanına tabanlarınız yere tam basacak şekilde yerleştirin. Barbell’ı dirsek genişliğinde ellerinizle kavrayın ve nefes alarak göğsünüzün tam ortasına göğüs uçlarına doğru indirin. İndirme sırasında mümkün olduğunca kaslarınızı hissetmek için yavaş hareket edin. Barbell’ı göğüs bölgenize 1-2 santim kalıncaya kadar indirip ardından nefes vererek yukarı doğru dirsekleriniz tamamen düz oluncaya kadar kaldırın.",
+        "descEn":"Lie flat on the bench. Place your feet on either side of the bench with your soles flat on the floor. Grasp the barbell with your hands at elbow-width and inhale as you lower it to the middle of your chest towards your chest. During lowering, move slowly to feel your muscles as much as possible. Lower the i to your chest until it is 1-2 cm, then exhale and lift it upwards until your elbows are completely straight."
+    },
+    {
+        "id": 2,
+        "movement_name": "Machine Chest Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/machinechestpress.jpg?raw=true",
+        "desc": "Kaldırabileceğiniz ağırlığı belirleyin ve ağırlığı ölçerek, iki tutacaktan tutun ve martı pozisyonuna geçin. Belinizin dik olmasına ve tam oturduğunuza dikkat edin. Martı pozisyonundan tutacakları çekin ve ellerinizin birbiriyle birleşmesine yakın tekrar aynı pozisyona dönün.",
+        "descEn":"Determine the weight you can lift and measure the weight, hold the two handles and get into the seagull position. Make sure that your waist is straight and you are fully seated. From the seagull position, pull the handles and return to the same position close to your hands meeting."
+    },
+    {
+        "id": 3,
+        "movement_name": "Machine Fly",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/machinefly.jpg?raw=true",
+        "desc": "Sehpaya sırtınızı düz bir şekilde yaslayın. Ağırlık kollarını kavrayın. Nefes vererek öne doğru kollarınızı kapatın. Nefes alarak tekrar başlangıç pozisyonuna dönün.",
+        "descEn":"Lie on the bench with your back straight. Grasp the weight arms. Exhale, close your arms forward. Inhale, return to the starting position."
+    },
+    {
+        "id": 4,
+        "movement_name": "Barbell Incline Bench Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/barbellinclinebenchpress.png?raw=true",
+        "desc":"30-45 eğim ayarlı sehpa üzerine yatın. Omuz Genişliğinden biraz fazla, orta genişlikte kollarınızı açın. Ağırlığı kavradığınızda avuç içleri yukarı bakacak şekilde olsun.Halter hizası göğüs ortasının az üstüne gelecek pozisyonda olsun. Ağırlığı indirirken göğsünüze değdirmeyin. Nefes vererek ağırlığı kollar dik olacak şekilde kaldırın. 1 saniye bekleyin ve nefes alarak göğüs hizasına kadar yavaşça indirin.",
+        "descEn":"Lie on a 30-45 incline bench. Open your arms at medium width, slightly more than Shoulder Width. When you grab the weight, keep the palms facing up. Keep the barbell in a position just above the middle of the chest. Do not touch your chest while lowering the weight. Hold for 1 second and slowly lower to chest level while breathing in."
+    },
+    {
+        "id": 5,
+        "movement_name": "Şınav",
+        "icon_type": "0",
+        "area": "Tüm vücut",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/sinav.jpg?raw=true",
+        "desc":"Yüksek plank pozisyonunda başlayın. Ellerinizi direkt omzunun altına koyun. Ayak parmaklarınızı yere takın, karnınızı sıkın ve sırtınızı düzleyin. Vücudunuzu alçaltmaya başlayın. Sırtınızı düz tutarken boynunuzu da bükmemek için gözleriniz yerde ilerideki bir noktaya baksın. Göğsünüz yere değene vücudunuzu indirin. Kalçanız aşağı düşmesin ya da yukarı çıkmasın. Vücudunuz baştan ayağa düzgün bir hattı korumalı.",
+        "descEn":"Start in a high plank position. Put your hands directly under your shoulders. Put your toes on the floor, tighten your stomach, and straighten your back. Start lowering your body. Keep your back straight while keeping your eyes looking straight ahead on the floor to avoid twisting your neck. Lower your body until your chest touches the ground. Your body should maintain a straight line from head to toe."
+    },
+    {
+        "id": 6,
+        "movement_name": "Dumbbell Fly",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellfly.png?raw=true",
+        "desc": "Her iki elinize birer adet alarak benche sırt üstü uzanın. Dumbbell‘ar  göğüs hizanızda, kollarınız dik ve avuç içleriniz birbirine bakar şekilde olacak. Bu başlangıç pozisyonunuz. Nefes alarak dumbell‘ları omuz hizasının biraz altına gelene kadar her iki yana dengeli olarak orta yavaş hızda indirin. Nefes vererek, dirseklerinizin açısını artırarak (kolları tam düz konuma getirerek) dumbbell’ları  göğüs hizasında yukarı kaldırın. Hareketin sonunda, dumbbell’ları birbirine değdirmeden, bir saniye kadar, göğüs kasını iyice kasarak izometrik çalışma yapın. Ardından tekrar inişe geçin.",
+        "descEn":"Lie on your back on the bench, holding one in each hand. Dumbbells will be at chest level with your arms straight and palms facing each other. This is your starting position. Inhale and lower the dumbbells evenly to both sides at a moderately slow pace until they are slightly below shoulder level. On an exhale, raise the dumbbells up to chest level, increasing the angle of your elbows (bringing the arms to a fully straight position). At the end of the movement, without touching the dumbbells, do isometric work by tightening the chest muscle for one second. Then descend again."
+    },
+    {
+        "id": 7,
+        "movement_name": "Cable Crossover",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/cablecrossover.png?raw=true",
+        "desc": "Cable Cross makinesin’de makara guruplarını göğüs hizanızla aynı seviyeye çekin. Çok ağır olmayan bir ağırlık seçip tutamaçları sırasıyla tutun ve makineyi ortalayın. Ortaladıktan sonra kollarınız açık pozisyondayken bir adım kadar öne çıkın. Dengenizi sağlamak için bir ayağınızı geriye atabilirsiniz. Nefes vererek açık pozisyonda ve yere paralel olan kollarınızı kırmadan öne doğru kapatmaya başlayın. Hızınız orta bir hız olsun. Maksimum seviyede göğüs kaslarınıza odaklanın.  Kol ve omuz kaslarınızdan yardım almamaya çalışın. Nefes alarak sıkıştırma hızınıza göre daha düşük bir hızda kollarınızı kırmadan her iki yana açın.",
+        "descEn":"On the Cable Cross machine, pull the pulley groups to the same level as your chest. Choose a weight that is not too heavy, hold the handles in order and center the machine. After centering, take a step forward with your arms in the open position. You can step back one foot to keep your balance. Exhale and start to close your arms in the open position and parallel to the ground without breaking them forward. Have a medium speed. Focus on your chest muscles as much as possible. Try not to get help from your arm and shoulder muscles. Inhale and open your arms to both sides at a slower rate than your compression rate."
+    },
+    {
+        "id": 8,
+        "movement_name": "Dumbbell Pullover",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellpullover.png?raw=true",
+        "desc": "Düz bir benchin üzerine uzanarak yapacaksanız bench bitimi ile omuzlarınız aynı hizada kalacak şekilde köprü pozisyonunda uzanın. Sırtınızı benche yaslayarak hareketi yapacaksanız, boynunuzun bir kısmı benchten taşacak şekilde köprü pozisyonunda kendinizi sabitleyin. Dumbbellı elinize alarak iki elinizle bir bölümünden kavrayın ve kafanızın üzerine gelecek biçimde yukarı kaldırın. Kavramış olduğunuz dumbbellı kollarınızı kırmadan kafanızın ara kısmına doğru indirin. Kollarınızı en az kafanızla aynı hizaya gelene kadar dumbbellı indirdikten sonra yeniden yukarı kaldırın. Yavaş bir biçimde elinizdeki dumbbellı indirip kaldırmaya devam edin. Dumbbellı indirirken oldukça yavaş olmalısınız ancak kaldırırken orta hızda kaldırabilirsiniz. Harekete kollarınız yukarıdayken başladığınız gibi kollarınız havadayken bitirin.",
+        "descEn":"If you are going to do it lying on a flat bench, lie in the bridge position with your shoulders in line with the end of the bench. If you are going to do the movement by leaning your back on the bench, stabilize yourself in the bridge position so that part of your neck protrudes off the bench. Take the dumbbell in your hand, grasp one part of it with both hands and lift it up over your head. Lower your arms with the dumbbells that you have grasped, towards the middle of your head without breaking them. After lowering the dumbbells until your arms are at least level with your head, raise them up again. Continue to slowly lower and raise the dumbbell in your hand. You should be quite slow while lowering the dumbbell, but you can lift it at medium speed when lifting. Finish the movement with your arms in the air just as you started with your arms up."
+    },
+    {
+        "id": 9,
+        "movement_name": "Decline Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/declinebenchpress.png?raw=true",
+        "desc": "Bacaklarınızı ayaklıklara takarak vücudunuzun sabitleyin ve aşağı doğru kaymasını engelleyin. Bench’e uzanın. Nefes alın ve ardından nefes vererek barbell’i (yere dik olarak inip kalkmalı) 1 – 1,5 saniye aralığında yukarı doğru itin. Tepe noktaya ulaştığınızda dirsek ekleminizi kesinlikle kilitlemeyin. Bunu yaparsanız yük göğsünüzde değil ekleminizde olur ve sakatlanmaya neden olabilir. Tepe noktaya ulaştığınızda bir saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında barbell’i göğsünüzün alt kısmına doğru indirin. Alt göğüse değmesine 1 cm mesafe kala bekleme yapmadan tekrar itin.",
+        "descEn":"Fix your body by attaching your legs to the footrests and prevent it from sliding down. Reach for the bench. Inhale and then exhale, pushing the barbell upwards (up and down vertically) for 1 to 1,5 seconds. Never lock your elbow joint when you reach the peak. If you do, the load will be on your joint, not your chest, and could cause injury. When you reach the peak, hold for a second, then inhale and lower the barbell towards your lower chest for 1,5 to 2 seconds. Push again without waiting 1 cm before it touches the lower chest."
+    },
+    {
+        "id": 10,
+        "movement_name": "Dumbbell Incline Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/inclinedumbbellpress.png?raw=truel",
+        "desc": "İki adet dumbbell‘ı kavrayın ve bench’e uzanın. Ayaklarınızı bir omuz genişliği kadar açın ve egzersiz süresince yere tam basın. Nefes alın ve ardından nefes vererek 2 saniye aralığında, göğüs seviyenizdeki dumbbell’ları üst kolları yere dik tutarak, yukarı doğru itmeye başlayın. Tepe noktaya gelirken göğsünüzü iyice sıkın. Tepe noktada dumbbell‘ları birbirine değdirmemeye çalışın. Tepe noktaya ulaşınca 1 saniye kadar bekleyip ardından nefes alarak 2 – 2,5 saniye aralığında dumbbell’ları indirmeye başlayın. Dip noktada ise göğüs kasınızın iyice esnediğini hissetmelisiniz. Dumbbell’ları ne kadar aşağı indirirseniz hareket çalışma mesafeniz o kadar artacak, kasınız daha çok çalışacaktır. Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek tekrar yükselişe geçin.",
+        "descEn":"Grab two dumbbells and lie on the bench. Spread your feet about one shoulder-width apart and keep your feet flat on the ground throughout the exercise. Inhale and then exhale, for 2 seconds, start pushing the dumbbells at chest level upwards, keeping your upper arms perpendicular to the floor. Tighten your chest tight as you reach the peak. Try not to let the dumbbells touch each other at the top. When you reach the peak, wait for 1 second, then breathe and start lowering the dumbbells between 2 and 2,5 seconds. At the bottom, you should feel your chest muscle stretching well. The lower you lower the dumbbells, the more your range of motion will increase, and the more your muscle will work. When you reach the bottom point, breathe out without waiting and start the ascent again."
+    },
+    {
+        "id": 11,
+        "movement_name": "Dumbbell Bench Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellbenchpress.png?raw=true",
+        "desc": "Bench'in üzerine her iki elinizde üstten tutuş yaptığınız dumbbell’lar ile uzanın. Ayaklarınız dengenizi daha rahat sağlamak amaçlı biraz açık ve yere tam basar şekilde olmalı. Bench üzerine yattığınızda dumbbell’ları yukarı kaldırın.  Kollarınız yere tamamen dik ve dumbbell’ların birbirine değmesine bir kaç santim mesafe kalmalı. Bu başlangıç pozisyonunuz olacak.Nefes alarak orta yavaş hızda dumbbell’ları 1,5 – 2 saniye aralığında indirmeye başlayın. Bunu yaparken ön kolların yere dik olarak inmesine dikkat edin. Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek 1 – 1,5 saniye aralığında dumbbell’ları kuvvetlice yukarı doğru itin. Tepe nokta ya ulaştığınızda bekleme yapmadan nefes alarak orta yavaş hızda indirmeye başlayın.",
+        "descEn":"Lie on the bench with dumbbells held overhead in both hands. Your feet should be slightly open and flat on the ground to provide your balance more comfortably. Raise the dumbbells as you lie on the bench. Your arms should be fully perpendicular to the floor and a few inches away from the dumbbells touching each other. This will be your starting position. Inhale and start lowering the dumbbells at medium slow speed for 1,5 to 2 seconds. While doing this, make sure that the forearms are perpendicular to the ground. When you reach the bottom, push the dumbbells up strongly for 1 - 1,5 seconds, exhaling without waiting. When you reach the peak, start lowering at medium slow speed by breathing without waiting."
+    },
+    {
+        "id": 12,
+        "movement_name": "Incline Dumbbell Fly",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/inclinedumbbellfly.jpg?raw=true",
+        "desc":"30-45 derece eğimli pozisyonda sehpa açısını ayarlayın. Ağırlığı kavradığınızda avuç içleri yukarı bakıcak şekilde olsun. Kollarınızı hafif kırarak yana doğru açın ve nefes alın. Nefes vererek yukarı doğru kaldırın. Nefes Vererek tekrar başlangıç pozisyonuna dönün.",
+        "descEn":"Adjust the stand angle in the 30-45 degree inclined position. As you grasp the weight, keep your palms facing up. Open your arms slightly to the side and breathe. Exhale and lift upwards. Exhale and return to the starting position."
+    },
+    {
+        "id": 13,
+        "movement_name": "Low Cable Crossover",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/lowcablecrossover.PNG?raw=true",
+        "desc":"Cablecross makinasının makaralarını el alta çekin. Uygun ağırlığı takın. Makineyi ortalayın ve kollarınızı serbest bırakın. Bu başlangıç pozisyonunuz olacak. Nefes alın ve ardından nefes vererek ağırlığı kaldırmaya başlayın. Bunu şu şekilde yapacaksınız. Kollar aşağıda serbest pozisyonda iken vücuda çarpmaması için açık vaziyette olur. Kapanış anında kollarınız yere dik ve birbirine bitişik hale gelecek. Son noktaya geldiğinizde bir saniye kadar bekleyin ve kaldırış hızınıza oranla daha yavaş bir hızda nefes alarak kollarınızı aşağı doğru salın.",
+        "descEn":"Pull the reels of the cablecross machine under hand. Attach the appropriate weight. Center the machine and release your arms. This will be your starting position. Inhale and then start lifting the weight while exhaling. This is how you will do it. When the arms are in the free position down, they are in the open position so that they do not hit the body. At the moment of closing, your arms will be perpendicular to the ground and adjacent to each other. When you reach the end point, hold for about a second and swing your arms down, breathing in at a slower rate than your lifting speed."
+    },
+    {
+        "id": 14,
+        "movement_name": "Dumbbell Squeeze Press",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellsqueezepress.jpg?raw=true",
+        "desc":"Her iki elinize birer dumbbell alarak  düz bench sehpasına uzanın. Avuç içleriniz birbirine bakacak şekilde dumbbell’ları göğsünüzün hemen üstünde birleştirin. Bu başlangıç pozisyonunuz olacak. Nefes alın ve ardından nefes vererek kollarınız yere tam dik olacak şekilde dumbbelları kaldırın. İndirme ve kaldırma anında dumbbellar birbirine değecek. Nefes alarak dumbell’ları göğsünüze indirin.",
+        "descEn":"Lie on a flat bench with a dumbbell in each hand. Bring the dumbbells together just above your chest with your palms facing each other. This will be your starting position. Inhale and then exhale and raise the dumbbells so that your arms are perpendicular to the floor. The dumbbells will touch each other during lowering and lifting. Inhale and lower the dumbbells to your chest."
+    },
+    {
+        "id": 15,
+        "movement_name": "Chest Dips",
+        "icon_type": "0",
+        "area": "Göğüs",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/chestdips.png?raw=true",
+        "desc":"Dips kulesine çıktıktan sonra barları kavrayın ve gövdenizi öne eğin. Karın kaslarınızı sıkarak vücudunuzun eğimini koruyun. Omzunuz ve dirsekleriniz elverdiği derecede aşağı inin. Patlayıcı güç ile başlangıç konumuna döndükten sonra yavaşça hareketi tekrarlayın.",
+        "descEn":"After climbing the dips tower, grasp the bars and lean your torso forward. Keep your body tilted by tightening your abdominal muscles. Go down as far as your shoulders and elbows can. Slowly repeat the movement after returning to the starting position with explosive power."
+    },
+    {
+        "id": 16,
+        "movement_name": "Dumbbell Lateral Raise",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/lateraldumbbellraise.PNG?raw=true",
+        "desc":"Her iki elinize uygun ağırlıkta birer dumbbell alın. Ayaklarınızı omuz genişliğiniz kadar açın. Belinize ya da kalçanıza bir es vermenize gerek yok. Tamamen dik olarak durun. Şimdi nefes alın ve ardından nefes vererek  1,5 saniye aralığında kollarınızı omuz seviyenize kadar kaldırmaya başlayın. Dumbbell’lar yere paralel olarak hareket etmeli. Öne ya da arkaya herhangi bir eğim vermeyin. Omuz hizasına yani tepe noktaya geldiğinizde 0,5 – 1 saniye kadar bekleyin ve ardından nefes alarak 2 saniye aralığında kolları aşağı indirmeye başlayın. İndirme ne kadar yavaş olursa ağırlığa karşı direnç o kadar fazla olur ve indirme anında da kas gelişimi devam eder. Dip noktaya geldiğinizde bekleme yapmadan nefes vererek tekrar kaldırmaya başlayın.",
+        "descEn":"Take a dumbbell in each hand of the appropriate weight. Open your feet to shoulder width. You don't need to give a stretch to your waist or hips. Stand completely upright. Now inhale and then exhale start raising your arms up to shoulder level for 1,5 second intervals. Dumbbells should move parallel to the floor. Do not incline forward or backward. When you reach the shoulder level, that is, the peak, wait for 0,5 - 1 seconds and then start to lower the arms in the interval of 2 seconds by breathing. The slower the lowering, the greater the resistance to the weight, and the muscle development continues at the time of lowering. When you reach the bottom point, start lifting again by exhaling without waiting."
+    },
+    {
+        "id": 17,
+        "movement_name": "One Arm Cable Lateral Raise",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/onearmcablelateralraise.jpg?raw=true",
+        "desc":"Dik pozisyonda durun ve ayaklarınızı omuz hizasında aralayın. Sol elinizde ağırlık demirini kavrayın. Avuç içi yere bakacak şekilde ağırlığı aşşağıdan yukarıya doğru kaldırın. Nefes vererek omuz hizasına kadar kaldırın. Nefes alarak yavaşça indirin. Diğer kolunuza geçerek aynı işlemleri uygulayın.",
+        "descEn":"Stand in an upright position and place your feet shoulder-width apart. Grasp the weight bar in your left hand. Lift weight from bottom to top with palms facing down. Exhale and raise to shoulder level. Inhale and lower slowly. Switch to your other arm and do the same."
+    },
+    {
+        "id": 18,
+        "movement_name": "Facepull",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/facepull.png?raw=true",
+        "desc":"Cablecross makinesine halatı takın. Makara gruplarını en yukarı kaldırın. Çekişi yukarıdan yüzünüze doğru yapacaksınız. Avuç içleriniz içe bakacak şekilde halatı kavrayın. Makineden bir kaç adım uzaklaşın. Nefes alın ve ardından nefes vererek  karşıya doğru uzattığınız halatı  yüzünüze doğru çekmeye başlayın. Alnınıza doğru, yüzünüze doğru çekebilirsiniz.Son noktaya geldiğinizde  bir saniye kadar bekleyin ve çekiş hızınıza oranla daha yavaş bir hızda  nefes alarak halatı salmaya başlayın.",
+        "descEn":"Attach the rope to the cablecross machine. Raise the roller groups all the way up. You will do the pull from above towards your face. Grasp the rope with your palms facing inward. Take a few steps away from the machine. Inhale and then, exhale, start pulling the rope that you have stretched forward towards your face. You can pull it towards your forehead, towards your face. When you reach the end point, wait for a second and start to release the rope by breathing at a slower rate than your pulling speed."
+    },
+    {
+        "id": 19,
+        "movement_name": "Bent Over Lateral Raise",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/bentoverlateralraise.jpg?raw=true",
+        "desc":"Standart versiyon ayakta yapılır. İki adet çok ağır olmayan dumbbell’ı her iki elinize alın. Bacaklarınızı omuz hizanız kadar açın ve dizlerinizi biraz kırıp kalçanızı dışarı çıkartın. Üst vücudunuzu olabildiğince yere paralel hale getirmeye çalışın. Kollarınızı aşağı sarkıtın.Nefes alın ve ardından nefes vererek her iki kolunuzu aynı anda geriye doğru kaldırmaya başlayın. Kaldırabileceğiniz son nokta vücut hizanız olmalı.Ardından nefes alarak kolları aşağı 1,5 – 2 saniye aralığında salmaya başlayın. Dip noktada dumbbell’lar arasında yaklaşık 30 santim kadar mesafe  kalsın. Dip noktada dumbbell’lar arası 30 cm kadar mesafe kaldığında bekleme yapmadan nefes vererek tekrar kaldırışa geçin.",
+        "descEn":"The standard version is made standing. Take two not-too-heavy dumbbells in both hands. Open your legs up to shoulder level and bend your knees a little and bring your hips out. Try to make your upper body as parallel to the ground as possible. Let your arms hang down. Inhale and then, exhaling, begin to lift both arms back at the same time. The last point you can lift should be at your body level. Then, inhale and start to swing the arms down for 1,5 – 2 seconds. At the bottom, keep a distance of about 30 cm between the dumbbells. When there is a distance of 30 cm between the dumbbells at the bottom point, start lifting again by exhaling without waiting."
+    },
+    {
+        "id": 20,
+        "movement_name": "Dumbbell Front Raise",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellfrontraise.jpg?raw=true",
+        "desc":"Düz bir şekilde durarak, bacaklarınızı omuz hizasında açın ve ağırlıkları avuç içleri kendinize bakıcak şekilde kavrayın. Gövdeyi sabit tutarken, ağırlıkları dirseğe hafifçe bükerek ve ellerin avuç içleri daima aşağı bakacak şekilde öne doğru kaldırın. Kolları zemine paralel olarak, omuz hizasına gelene kadar kaldırın. Ağırlıkları kaldırırken nefes verin ve üstte bir saniye bekleyin. Nefes alırken, ağırlıkları yavaşça başlangıç ​​pozisyonuna geri indirin.",
+        "descEn":"Standing straight, spread your legs shoulder-width apart and grasp the weights with the palms facing you. While keeping the torso stationary, lift the weights forward with a slight bend at the elbow and palms of the hands always facing down. Raise the arms parallel to the floor until they are at shoulder level. Exhale as you lift the weights and hold for a second at the top. As you inhale, slowly lower the weights back to the starting position."
+    },
+    {
+        "id": 21,
+        "movement_name": "Dumbbell Shoulder Press",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellshoulderpress.jpg?raw=true",
+        "desc":"Ağırlıkları elinize alarak, ayakta veya sırt desteği olan bir sehpaya oturun. Sehpayı dik konuma getirin. Ağırlıkları her iki taraftan da omuz yüksekliğine getirin. Baldırlarınızdan güç alarak kaldırabilirsiniz. Ellerinizi avuçlarınız öne bakacak şekilde bilekleri döndürün. Başlangıç pozisyonu alın. Nefes verirken, ağırlıkları yukarı kaldırın. İkinci bir duraklamadan sonra, nefes alırken yavaşça başlangıç ​​pozisyonuna doğru indirin.",
+        "descEn":"Sit standing or on a bench with back support, holding weights in your hands. Set the stand upright. Bring the weights to shoulder height on both sides. You can lift it by taking strength from your calves. Rotate the wrists with your hands palms facing forward. Take the starting position. As you exhale, lift the weights up. After a second pause, slowly lower back to the starting position while breathing in."
+    },
+    {
+        "id": 22,
+        "movement_name": "Dumbbell Upright Row",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbelluprightrow.png?raw=true",
+        "desc":"Ayaklarınızı omuz genişliğiniz kadar açın. Üst vücudunuzu yere dik olarak tutun. Bar’ı her iki elinizle omuz genişliği mesafesinde kavrayın. Başlangıç noktası için kollarınızı tamamen yere sarkıtın. Nefes alın ve ardından nefes vererek 1,5 saniye aralığında bar’ı köprücük kemiğinize, daha fazla çekebiliyorsanız çenenizin altına kadar çekin. Tepe noktada 1 saniye kadar bekleyin ve ardından nefes alarak 2 saniye aralığında bar’ı salmaya başlayın. Dip noktaya ulaştığınızda bekleme yapmadan tekrar çekişe başlayın.",
+        "descEn":"Open your feet to shoulder width. Keep your upper body perpendicular to the floor. Grasp the bar with both hands shoulder-width apart. For the starting point, let your arms hang completely on the floor. Inhale and then exhale, pulling the bar up to your collarbone for 1,5 seconds, and below your chin if you can. Hold for 1 second at the peak and then breathe out and start releasing the bar for 2 seconds. When you reach the bottom point, start pulling again without waiting."
+    },
+    {
+        "id": 23,
+        "movement_name": "Overhead Machine Press",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/machineshoulderpressoverhead.jpg?raw=true",
+        "desc":"Sırtınızı ve başınızı sırtlığa tamamen yaslayın. Başınız sadece karşıya baksın. Ayaklarınızı geniş olarak tutmak kaldırış kolaylığı sağlayacaktır. Nefes alın ve ardından nefes vererek orta hızda itmeye başlayın. Üst resimde görüldüğü gibi dirsekleri kitlemeden tepe noktasına ulaşın. Tepe noktasına ulaştıktan sonra nefes alarak yavaş hızda ağırlığı indirmeye başlayın. Elleriniz çene hizanıza kadar inince beklemeden nefes vererek tekrar yukarı itiş yapın.",
+        "descEn":"Lean your back and head completely against the backrest. Just look straight ahead. Keeping your feet wide will provide ease of lifting. Inhale and then exhale and start pushing at a medium pace. Reach the apex without locking the elbows as seen in the top picture. After you reach the peak, start lowering the weight slowly by breathing in. When your hands reach your chin level, exhale without waiting and push up again."
+    },
+    {
+        "id": 24,
+        "movement_name": "Barbell Overhead Press",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/barbelloverheadpress.png?raw=true",
+        "desc":"Halteri başınızın hemen üstüne doğru yüksekliğe getirin. Demiri avuç içi öne gelicek şekilde kavrayın. Kollarınızı bükerek halteri omuz hizasında başınızın önüne doğru gelicek şekilde indirin. Omuzlarınıza doğru yavaşça nefes alarak indirin. Başınızın üzerine kaldırırken tekrar nefes verin.",
+        "descEn":"Raise the barbell to just above your head. Grasp the iron with palms forward. Bend your arms and lower the barbell in front of your head at shoulder level. Slowly inhale and lower it towards your shoulders. Exhale again as you raise it above your head."
+    },
+    {
+        "id": 25,
+        "movement_name": "Arnold Press",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/arnoldshoulderpress.jpg?raw=true",
+        "desc":"Arkası ayarlanabilir bench sehpası dik konuma getirip, sırtınızı iyice yaslayarak oturun. Üstten tutuşla her iki elinize birer dumbbell alın. Üst kollarınız birbirine paralel, yere dik ve avuç içleriniz vücudunuza bakar şekilde olmalı. Nefes alın ve ardından nefes vererek, fleksiyon yaparak yani avuç içlerinizi dışarı doğru çevirerek , dumbbell’ları yukarı birbirlerine değmesine bir kaç santim mesafe kalana kadar kaldırın. Tepe noktasında 0,5-1 saniye kadar bekledikten sonra, nefes alarak, kaldırış hızınıza oranla daha düşük bir hızda yine fleksiyon yaparak yani avuç içlerinizi vücudunuza çevirerek dumbell’ları aşağı indirip başlangıç pozisyonunuza gelin.",
+        "descEn":"Set the adjustable-back bench to an upright position and sit down with your back straight. Grab a dumbbell in each hand with an overhead grip. Your upper arms should be parallel to each other, perpendicular to the floor, and your palms facing your body. Inhale and then, exhaling, flexing your palms outward, raise the dumbbells up until they are a few inches apart from each other. After holding for 0,5-1 seconds at the top, take the dumbbells down and come to your starting position by breathing in and flexing at a lower speed than your lifting speed, that is, turning your palms towards your body."
+    },
+    {
+        "id": 26,
+        "movement_name": "Up-right Row",
+        "icon_type": "1",
+        "area": "Omuz",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/uprightrow.PNG?raw=true",
+        "desc":"Sehpaya dik bir şekilde oturun ve dirseklerinizi bükerek avuç içi yüzünüze bakacak şekilde ağırlıkları kavrayın ve nefes alın. Kalkış pozisyonunda nefesinizi tüketerek avuçlarınızı yüzünüzün baktığı yöne doğru tam anlamıyla ters çevirin ve rotasyon yaparak tepeye kadar kaldırın. Tekrar omuz pozisyonunda yavaşça avuç içleri yüzünüze bakacak şekilde indirin.",
+        "descEn":"Sit upright on the bench and bend your elbows, grasp the weights with your palms facing your face, and breathe. Exhausting your breath in the take-off position, turn your palms completely in the direction your face is facing and rotate them to raise them up to the top. Again in the shoulder position, lower slowly with the palms facing your face."
+    },
+    {
+        "id": 27,
+        "movement_name": "Squat",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/squat.png?raw=true",
+        "desc":"Başın dik ve bakışların ileri doğru olmalı. Göğsünü yukarıda tut. Ayaktayken nefes alıp, çömelirken verebilirsin. Belini düz tutmak için enerji harcama, doğal kıvrımında kalsın. Kendi gücüne göre kalça ve basenler yere paralel veya inebildiğin kadar aşağıda olabilir. Dizlerin ayak uçlarının önüne geçmemesi hareketin genel bütünlüğü açısından önemli. Ayak tabanların yere düz bassın, ağırlığını topuklarına ver. Biraz daha zorlaşsın istersen ayak parmaklarını kaldırmayı dene.",
+        "descEn":"Your head should be upright and your gaze forward. Keep your chest up. You can inhale while standing and exhale while squatting. Don't waste energy on keeping your waist straight, keep it in its natural curve. Depending on your strength, your hips and hips can be parallel to the ground or as low as you can go. It is important for the overall integrity of the movement that the knees do not go in front of the toes. Keep the soles of your feet flat on the ground, putting your weight on your heels. If you want it a little harder, try lifting your toes."
+    },
+    {
+        "id": 28,
+        "movement_name": "Hack Squat",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/hacksquat.png?raw=true",
+        "desc":"Ayaklarınızı hafif içe dönük olarak yerleştirin. Ayak açıklığı omuz mesafesinde olmasına özen gösterin. Başınız karşıya bakmalı ve dik durmalı. Sırtınızı mindere yaslamalısınız. Kollarınız makinenin yanında halteri kaldıracağınız nokta düz durmalı. Ağırlığı yukarı doğru yavaşça ittirin.",
+        "descEn":"Place your feet slightly inward. Make sure that the foot opening is at shoulder distance. Your head should be facing forward and standing straight. You should rest your back on the mat. Your arms should be straight next to the machine where you will lift the barbell. Slowly push the weight upwards."
+    },
+    {
+        "id": 29,
+        "movement_name": "Leg Press",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/legpress.JPG?raw=true",
+        "desc":"Leg press makinasına oturun ve ayaklarınızı kalça genişliğinde açın. Topuklarınızın zemine bastığından iyice emin olun. Emniyet mandallarını açtıktan sonra her iki tutamacı kavrayın. Ağırlığı indirme aşamasında nefes alın. Dizleriniz 90 derecelik bir açıya geldiğinde, yukarı doğru nefesinizi tüketerek bastırın ve bacaklarınızı düzeltin. Dizlerinizi tamamen kilitlemeden tekrar başlangıç pozisyonuna doğru yavaşça gelin.",
+        "descEn":"Sit on the leg press machine and stand with your feet hip-width apart. Make sure your heels are on the ground. Grasp both handles after releasing the safety catches. Inhale while lowering the weight. When your knees are at a 90-degree angle, exhale and straighten your legs. Slowly come back to the starting position without fully locking your knees."
+    },
+    {
+        "id": 30,
+        "movement_name": "Leg Extension",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/legextension.JPG?raw=true",
+        "desc":"Makineye oturmadan önce boyunuzun uzunluğuna göre oturma kısmını ayarlayın. Ayak pedini ayağınızın hemen üstüne yani bileğin başlangıcına ayarlayın. Uygun bir ağırlık seçin. Şimdi nefes alın ve ardından nefes vererek ayaklarınızı yukarı doğru  orta hızda kaldırmaya başlayın.Yapabildiğiniz kadar alt ve üst bacağınızı paralel hale getirmeye çalışın. Olmuyorsa ağırlık düşürün. Tepe noktaya ulaştıktan sonra nefes alarak yavaş hızda indirmeye  başlayın. Yavaş hızda indirmek de oldukça önemli. Yavaş indirirseniz üst bacak kasları ağırlığa direnç göstermek zorunda kalacağından iniş anında da çalışacaklardır.",
+        "descEn":"Before sitting on the machine, adjust the seat according to your height. Set the foot pad just above your foot, at the beginning of the ankle. Choose an appropriate weight. Now inhale and then exhale and start raising your feet upwards at medium speed. Try to make your lower and upper legs parallel as much as you can. If not, lower the weight. After reaching the peak, start lowering slowly by breathing in. Downloading at slow speed is also very important. If you lower slowly, the upper leg muscles will have to resist the weight, so they will also work during the descent."
+    },
+    {
+        "id": 31,
+        "movement_name": "Walking Lunge",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/walkinglunge.jpg?raw=true",
+        "desc":"Her iki elinize de uygun ağırlıkta birer dumbbell alın. İniş anında nefes alıp, kalkış anında nefes vereceksiniz. Nefes alın ve öne doğru bir adım atarak geride kalan ayağınızla dizinizin üstüne çökmeye başlayın. Diziniz yere temas etmemeli. Dizinizin üzerine çöktükten sonra nefes vererek kalkmaya başlayın ve geride kalan ayağınızı, ileride ki ayağınızın bir adım önüne atın. Ve tekrar nefes alarak çökmeye başlayın. Üst vücudunuzu kesinlikle yere dik olarak tutun. Egzersiz boyunca sadece karşıya bakın.",
+        "descEn":"Take a dumbbell in each hand of the appropriate weight. You will inhale at the moment of landing and exhale at the moment of takeoff. Inhale and take a step forward and start kneeling with your left foot. Your knee should not touch the ground. After getting down on your knees, start to rise by exhaling and take your left foot one step ahead of your forward foot. And start collapsing, breathing in again. Keep your upper body strictly perpendicular to the ground. Just look straight ahead throughout the exercise."
+    },
+    {
+        "id": 32,
+        "movement_name": "Calf",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/standingandseatedcalfraise.jpg?raw=true",
+        "desc":"Calf raise egzersizini tek ayak ya da çift ayak olarak yapabilirsiniz. Uygun bir ağırlık seçin ve step tahtasının üzerine tek ayağınızın parmak uçlarını koyun. Step tahtası yok ise bir ağırlık plakası ya da bir merdiven basamağı ucu olabilir. Parmak uçlarınızı yerleştirdiniz ve ayağın ortası ve topuk bölgesi yere paralel olarak boşta kaldı. Bu başlangıç pozisyonunuz olacak. Dengeyi sağlamak için diğer elinizle bir yere tutunabilirsiniz ama bunu yaparken tutunduğunuz yerden güç almayın. Nefes alın ver ardından nefes vererek orta hızda yukarı doğru yükselin.Tepe noktaya ulaştığınızda iki saniye kadar bekleyin. Ardından nefes alarak kalkış hızınıza oranla daha yavaş bir hızda inişe geçin. İniş noktası ise ayak yere paralel başlangıç noktasına göre daha aşağıda olacak. Bunu maksimum mesafede çalışabilmek için yapacağız. İnebildiğiniz kadar aşağı indikten sonra yine nefes vererek tepe noktaya kadar kendinizi yükseltin.",
+        "descEn":"You can do the calf raise with one leg or both legs. Choose a suitable weight and place the toes of one foot on the step board. If there is no step board, it can be a weight plate or a stair step. You placed your toes and the middle of the foot and the heel area remained free parallel to the floor. This will be your starting position. You can hold onto something with your other hand to maintain balance, but don't use the force you are holding while doing this. Inhale, then exhale and rise at medium speed. When you reach the apex, hold for two seconds. Then, inhale and descend at a slower rate than your take-off speed. The landing point will be lower than the starting point with the foot parallel to the ground. We will do this so that we can work at maximum distance. After descending as far as you can, exhale again and raise yourself up to the top."
+    },
+    {
+        "id": 33,
+        "movement_name": "Leg Curl",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/legcurl.jpg?raw=true",
+        "desc":"Uygun bir ağırlık seçin ve makinenin pedlerini tam aşil tendonunun üzerine gelecek şekilde ayarlayın. Makineye yüz üstü uzanın, ayaklarınızı pedlere dayayın, tutamaçları tutun, nefes alın ve ardından nefes vererek orta hızda bacaklarınızı geriye doğru bükün. Pedler kalçanıza değene kadar bunu yapın. Tamamen saldığınızda bekleme yapmadan tekrar bacaklarınızı geriye doğru bükün.",
+        "descEn":"Choose a suitable weight and adjust the pads of the machine so that they are just above the Achilles tendon. Lie facedown on the machine, rest your feet on the pads, grab the handles, inhale, and then exhale and bend your legs back at a moderate pace. Do this until the pads touch your hips. When you fully release, bend your legs back again without waiting."
+    },
+    {
+        "id": 34,
+        "movement_name": "Deadlift",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/deadlift.png?raw=true",
+        "desc":"Uygun ağırlıkları taktığınız barbell’i ayaklarınızın ucuna alın. Ayaklarınız omuz genişliğiniz kadar açık olsun ve parmak uçlarınız tam karşıya baksın.  Barbell alt bacaktaki kaval kemiğinize temas edecek kadar yakın olmalı. Bu pozisyonda alt bacağınız yere mümkün olduğunca dik, üst bacağınız yere 45 derece açıda olmalı. Üst gövdeniz ise yere eğik ve üst bacağa 90 derece açıyı tamamlamalı. Bel – Sırt – Enseniz ise düz bir çizgi halinde olmalı. Nefes alın ve ardından nefes vererek ağırlığı orta hızda yukarı doğru çekmeye başlayın. Yukarı doğru kalkarken bel – sırt – ense doğrultusunu bozmayın. Son noktaya geldiğinizde vücudunuz yere tam dik bir pozisyonda olacak. Nefes alarak orta hızda başlangıç pozisyonunuza dönün. Nefes vererek  tekrar kaldırın.",
+        "descEn":"Take the barbell with the appropriate weights at your feet. Keep your feet shoulder-width apart and your toes pointing straight ahead. The barbell should be close enough to touch your lower leg shin. In this position, your lower leg should be as perpendicular to the floor as possible, and your upper leg should be at an angle of 45 degrees to the floor. Your upper body should be bent to the ground and complete a 90-degree angle to the upper leg. Waist - Back - Neck should be in a straight line. Inhale and then exhale start pulling the weight upwards at a moderate pace. Do not distort the waist-back-neck direction while rising upwards. When you reach the end point, your body will be in a position that is perpendicular to the ground. Inhale and return to your starting position at medium speed. Exhale and lift again."
+    },
+    {
+        "id": 35,
+        "movement_name": "Goblet Squat",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/gobletsquat.png?raw=true",
+        "desc":"Ayaklarınızı standart gelişim için omuz mesafeniz kadar açın. Uygun ağırlıktaki dumbbellı tepe kısmından sağlam bir şekilde kavrayın ve çene hizanıza kadar kaldırın. Nefes alın ve ardından çömelmeye başlayın. Üst bacaklarınız yani dirsek ve kalça arası yere paralel olana kadar çömelin. Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek 1 – 1,5 saniye aralığında ayaklarınız yere tamamen dik olana kadar kalkın. Tepe noktaya ulaştığınızda yine aynı şekilde bekleme yapmadan çömelmeye başlayın.",
+        "descEn":"Spread your feet shoulder-width apart for standard development. Grasp the dumbbell of appropriate weight firmly at the top and lift it up to your chin. Inhale and then start squatting. Squat down until your upper legs are parallel to the floor between your elbows and hips. When you reach the bottom point, breathe out without waiting, and get up until your feet are completely perpendicular to the ground for 1 - 1,5 seconds. When you reach the peak, start crouching in the same way without waiting."
+    },
+    {
+        "id": 36,
+        "movement_name": "Dumbbell Squat",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellsquat.jpg?raw=true",
+        "desc":"Ellerinizi yormayacak yani egzersizi yarıda bırakmanıza neden olmayacak ağırlıkta iki adet dumbbell alın. Avuç içleriniz vücuda bakar halde olsun. Ayaklarınızı omuz genişliğinizden biraz daha fazla açın ve parmak uçlarınız karşıya baksın. Bu ayak genişliği iniş ve kalkış anında bacakların dumbbellar’a çarpmayacağı bir genişlik olmalı. Dik pozisyondayken nefes alarak çömelmeye başlayın. Kollar tüm hareket boyunca yere sarkık vaziyette olacak. Üst bacağınız yani diz ve kalça arasında ki kısım yere paralel oluncaya kadar orta yavaş bir hızda çömelmenizi yapın. Göğsünüz dik ve başınız ileri bakar pozisyonda olsun. Üst gövdenizi yere eğmemeye çalışın. Son noktaya vardığınızda beklemeden, nefes vererek orta hızda yükselmeye başlayın. Tepe noktaya ulaştığınızda yine beklemeden nefes alarak çömelin.",
+        "descEn":"Buy two dumbbells with a weight that will not tire your hands, that is, will not cause you to leave the exercise halfway. Keep your palms facing the body. Spread your feet a little more than shoulder-width apart and point your toes forward. This foot width should be such that the legs do not hit the dumbbellar during landing and take-off. Begin squatting, breathing in while standing upright. The arms will remain dangling on the floor throughout the entire movement. Squat at a moderately slow pace until your upper leg, the part between your knee and hip, is parallel to the floor. Keep your chest upright and your head facing forward. Try not to bend your upper body to the ground. When you reach the end point, without waiting, start to rise at medium speed by exhaling. When you reach the peak, squat down again without waiting for a breath."
+    },
+    {
+        "id": 37,
+        "movement_name": "Seated Machine Hip Adduction",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/seatedmachine%20hipadduction.jpg?raw=true",
+        "desc":"Başlangıç pozisyonu için bacaklarınızı eklem zorlanmasına dikkat ederek yapabildiğiniz kadar açın. Yanda ki tutamaçları sıkıca kavrayıp destek alın. Nefes alın ve ardından nefes vererek bacaklarınızı orta hızda kapatmaya başlayın. Makinenin pedleri birbirine değene kadar kapatın. Son noktaya geldiğinizde bir saniye kadar bekleyip orta – yavaş hızda bacaklarınızı açmaya başlayın. Yavaş hızda açmamızın nedeni ise açış anında da kasların yüke direnç gösterip gelişmeye devam etmesidir.",
+        "descEn":"For the starting position, open your legs as much as you can, paying attention to joint strain. Grasp the side handles and get support. Inhale and then start closing your legs at medium speed as you exhale. Close the machine until the pads touch each other. When you reach the end point, wait for a second and start to open your legs at medium-slow speed. The reason why we open at a slow speed is that the muscles resist the load and continue to develop at the time of opening."
+    },
+    {
+        "id": 38,
+        "movement_name": "Barbell Squat",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/thebarbellsquat.png?raw=true",
+        "desc":"Ayaklarınızı omuz genişliğinde açın. Karın kaslarınızı sıkın. Barbell’i göğüs hizanıza dek kaldırın ve dengeleyin. Nefes alın. Aşağı doğru inmeye başlayın. İnerken yere paralel olana kadar devam edin. Doğru pozisyona geldiğinizde birkaç saniye bekleyin. Nefes verin. Başlangıç pozisyonuna geçin.",
+        "descEn":"Open your feet shoulder-width apart. Tighten your abdominal muscles. Lift the barbell up to your chest and balance it. breathe. Start descending. Continue until you are parallel to the ground as you descend. Hold for a few seconds when you are in the correct position. exhale. Get to the starting position."
+    },
+    {
+        "id": 39,
+        "movement_name": "Standing Leg Curl",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/standinglegcurl.jpg?raw=true",
+        "desc":"Tutamaçlara tutunup vücudu sabitleyip güç alın. Nefes alın ve ardından nefes vererek çalıştıracağınız bacağınızı sadece dizden kırarak geriye doğru kuvvetlice orta hızda bükün. Tepe noktasına ulaştığınızda bir saniye kadar bekleyin ve nefes alarak orta-yavaş hızda aşağı doğru salın. Bacak yere dik pozisyona geldiğinde bekleme yapmadan tekrar bükün ve tepe noktasında tekrar bir saniye bekleyin.",
+        "descEn":"Grab the handles and stabilize the body and gain strength. Inhale and then, while exhaling, bend the leg you will be working with only at the knee, and bend it backwards vigorously at medium speed. When you reach the apex, hold for a second and inhale, swing down at a moderate-slow pace. When the leg is perpendicular to the ground, bend it again without waiting and hold for one second again at the top."
+    },
+    {
+        "id": 40,
+        "movement_name": "Front Squat",
+        "icon_type": "2",
+        "area": "Bacak",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/frontsquat.JPG?raw=true",
+        "desc":"Barı ön omuzunuza gelecek şekilde oturtun her iki elinizle barı vücudunuza sabitleyin. Ayaklarınızı omuz genişliğiniz kadar açın. Parmak uçlarınız karşıya bakmalı. Nefes alarak çömelmeye başlayın. Üst bacağınız yere paralel oluncaya kadar çömelin. Çömelme anını yavaş yaparsanız hamstrings yani arka bacak kasları daha etkin şekilde çalışacaktır. Son noktaya geldiğiniz de nefes vererek orta hızda kontrollü bir şekilde yükselmeye başlayın. Tepe noktaya geldiğinizde bekleme yapmadan nefes alarak tekrar inişe geçin.",
+        "descEn":"Sit the bar against your front shoulder and fix the bar to your body with both hands. Open your feet to shoulder width. Your fingertips should be facing forward. Inhale and start squatting. Squat until your upper leg is parallel to the floor. If you do the squat slowly, the hamstrings, that is, the back leg muscles will work more effectively. When you reach the end point, start to rise in a controlled way at medium speed by exhaling. When you reach the peak, take a breath and start descending again without waiting."
+    },
+    {
+        "id": 41,
+        "movement_name": "Pull Up",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/pullup.png?raw=true",
+        "desc":"Barfiks barını omuz hizasında ya da biraz geniş tutmalıyız. Ayaklarımız bileklerimiz üst üste gelecek şekilde durmalıyız. Nefesimizi vererek kendimizi göğse kadar, yukarı çekmeliyiz, nefesimizi alarak geri aşağıya doğru bırakmalıyız.",
+        "descEn":"We should keep the pull-up bar at shoulder level or slightly wider. We should stand with our feet on top of each other. By exhaling, we must pull ourselves up to the chest, take our breath and let it go down."
+    },
+    {
+        "id": 42,
+        "movement_name": "Hyper Extension",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/hyperextension.png?raw=true",
+        "desc":"Bir ters mekik sehpasına yüzüstü yatın, ayak dayama ve karın dayama yerlerinin uygun ayarlandığından emin olun. Hareketten tam anlamıyla verim almak için kasıklarınız karın dayama yerine gelmeli. Pozisyonunuzu aldıktan sonra vücudunuz tam düz olacak şekilde başlangıç pozisyonuna geçin. Nefes alarak üst gövdenizi 45 derecelik bir açı yaratıncaya kadar aşağıya indirin. Bir saniye kadar bekleyin ve nefes vererek başlangıç pozisyonuna dönün. Yukarı kalktığınızda 2 saniye kadar durun ve tekrar üst gövdenizi aşağı indirin. Set sayısı kadar yapıp hareketi tamamlayın.",
+        "descEn":"Lie facedown on an inverted shuttle stand, making sure that the footrest and tummy tuck are properly adjusted. In order to get the full effect of the movement, your groin should come to the tummy tuck. After taking your position, return to the starting position with your body fully straight. Inhale, lower your upper body until you create a 45-degree angle. Hold for a second and exhale to return to the starting position. When you get up, hold for 2 seconds and lower your upper body again. Do as many sets as you can and complete the movement."
+    },
+    {
+        "id": 43,
+        "movement_name": "Lat Pull Down",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/latpulldown.jpg?raw=true",
+        "desc":"Wide grip bar’ı lat pulldown makinesine takın. Uygun bir ağırlık seçin. El açıklığınız omuz genişliğinizden biraz daha fazla ve avuç içleri karşıya bakar şekilde barı kavrayın ve sehpaya oturun. Çekiş anında şuna dikkat etmelisiniz. Üst vücut mümkün olduğunca yere dik olarak kalmalı. Yani çekiş ve salış anlarında üst vücudu yatırıp kaldırarak çekişi kolaylaştırma amaçlı ivme kazanmayın. Çekişi sadece kanat kaslarınızı kullanarak yapmalısınız. Üst vücut yere dik olarak çekişe başlamalı ve çekiş anında bel kısmına hafif bir es verilip göğüs ileri itilmeli, bar tam olarak üst göğüs üzerine çekilmelidir. Nefes vererek, her iki elinizle barı kavrayıp, barın göğsünüzün üst noktasına değmesine bir kaç cm mesafe kalana kadar, orta- yavaş bir hızda çekin. Son noktaya geldiğinizde bir saniye kadar bekleyin ve nefes alarak barı orta- yavaş bir hızda yukarı doğru salın.",
+        "descEn":"Attach the wide grip bar to the lat pulldown machine. Choose an appropriate weight. Grasp the bar and sit on the bench, with your hands slightly wider than shoulder-width apart and palms facing forward. You should pay attention to this while pulling. The upper body should remain as perpendicular to the floor as possible. In other words, do not gain momentum to facilitate traction by tilting and lifting the upper body during traction and release. You should do the pull using only your wing muscles. The upper body should start pulling perpendicular to the ground, and at the moment of pulling, a slight flexion should be given to the waist and the chest should be pushed forward, and the bar should be pulled exactly on the upper chest. As you exhale, grasp the bar with both hands and pull at a moderate-to-slow pace until the bar is a few inches from the top of your chest. When you reach the end point, hold for a second and while breathing, swing the bar upwards at a medium-slow speed."
+    },
+    {
+        "id": 44,
+        "movement_name": "Reverse Cable Croosover",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/reversecablecroosover.jpg?raw=true",
+        "desc":"Cable Cross makinesin’de makara guruplarını göğüs hizanızla aynı seviyeye çekin. Çok ağır olmayan bir ağırlık seçip tutamaçları sırasıyla tutun ve makineyi ortalayın. Ortaladıktan sonra kollarınız açık pozisyondayken bir adım kadar öne çıkın. Dengenizi sağlamak için bir ayağınızı geriye atabilirsiniz. Vücudunuzun üst kısmı mutlaka düz bir vaziyette olmalı. Nefes vererek açık pozisyonda ve yere paralel olan kollarınızı kırmadan öne doğru kapatmaya başlayın. Hızınız orta bir hız olsun. Maksimum seviyede göğüs kaslarınıza odaklanın.  Kol ve omuz kaslarınızdan yardım almamaya çalışın. Elleriniz birbirine değip son noktaya geldiğinizde harekete devam edip eller birbirini geçer ve çapraz pozisyona getirirseniz Pectoralis major inner yani göğüs kaslarının iç kısmı daha çok çalışır ve göğüs kaslarınız arasında ki boşluğu doldurmak için fırsat yaratmış olursunuz. Nefes alarak sıkıştırma hızınıza göre daha düşük bir hızda kollarınızı kırmadan her iki yana açın.",
+        "descEn":"On the Cable Cross machine, pull the pulley groups to the same level as your chest. Choose a weight that is not too heavy, hold the handles in order and center the machine. After centering, take a step forward with your arms in the open position. You can step back one foot to keep your balance. Your upper body must be in a straight position. Exhale and start to close your arms in the open position and parallel to the ground without breaking them forward. Have a medium speed. Focus on your chest muscles as much as possible. Try not to get help from your arm and shoulder muscles. When your hands touch each other and you reach the last point, if you continue the movement, cross each other and bring them to the cross position, the Pectoralis major inner part, that is, the inner part of the chest muscles, will work more and you will create an opportunity to fill the gap between your chest muscles. Inhale and open your arms to both sides at a slower rate than your compression rate."
+    },
+    {
+        "id": 45,
+        "movement_name": "Deadlift",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/deadlift.png?raw=true",
+        "desc":"Uygun ağırlıkları taktığınız barbell’i ayaklarınızın ucuna alın. Ayaklarınız omuz genişliğiniz kadar açık olsun ve parmak uçlarınız tam karşıya baksın.  Barbell alt bacaktaki kaval kemiğinize temas edecek kadar yakın olmalı. Bu pozisyonda alt bacağınız yere mümkün olduğunca dik, üst bacağınız yere 45 derece açıda olmalı. Üst gövdeniz ise yere eğik ve üst bacağa 90 derece açıyı tamamlamalı. Bel – Sırt – Enseniz ise düz bir çizgi halinde olmalı. Nefes alın ve ardından nefes vererek ağırlığı orta hızda yukarı doğru çekmeye başlayın. Yukarı doğru kalkarken bel – sırt – ense doğrultusunu bozmayın. Son noktaya geldiğinizde vücudunuz yere tam dik bir pozisyonda olacak. Nefes alarak orta hızda başlangıç pozisyonunuza dönün. Nefes vererek  tekrar kaldırın.",
+        "descEn":"Take the barbell with the appropriate weights at your feet. Keep your feet shoulder-width apart and your toes pointing straight ahead. The barbell should be close enough to touch your lower leg shin. In this position, your lower leg should be as perpendicular to the floor as possible, and your upper leg should be at an angle of 45 degrees to the floor. Your upper body should be bent to the ground and complete a 90-degree angle to the upper leg. Waist - Back - Neck should be in a straight line. Inhale and then exhale start pulling the weight upwards at a moderate pace. Do not distort the waist-back-neck direction while rising upwards. When you reach the end point, your body will be in a position that is perpendicular to the ground. Inhale and return to your starting position at medium speed. Exhale and lift again."
+    },
+    {
+        "id": 46,
+        "movement_name": "Barfiks",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/barfiks.png?raw=true",
+        "desc":"Kollarınızı omuz genişliğinden biraz daha fazla açarak barfiks barını üstten tutuşla kavrayın. Kollarınızı düzleştirerek havada asılı durun. Bu esnada karın kaslarınızı da sıkarak harekete dahil edin. Karın kaslarınızı kullanarak, vücudunuzu savurmadan kendinizi yukarı çekin ve çenenizi ellerinizle aynı hizaya getirmeye çalışın. Hareketin tepe noktasında bir an duraklayın ve kürek kemiklerinizi birbirine yaklaştırarak sıkıştırma yapın. Ardından kontrollü ve yavaş bir şekilde kollarınız tamamen düzleşene kadar alçalın.",
+        "descEn":"Grasp the pull-up bar with an overhand grip with your arms slightly wider than shoulder-width apart. Hang in the air by straightening your arms. In the meantime, tighten your abdominal muscles and include them in the movement. Using your abs, pull yourself up without swinging your body and try to align your chin with your hands. Pause for a moment at the top of the movement and compress by bringing your shoulder blades closer together. Then, in a controlled and slow manner, lower yourself until your arms are completely straight."
+    },
+    {
+        "id": 47,
+        "movement_name": "Dumbbell Row",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellrow.jpg?raw=true",
+        "desc":"Düz bir bench’e sağ dizinizi ve sağ elinizi koyun. Sol elinizi yere, dumbbell’a doğru sarkıtın.  Burada en çok dikkat etmeniz gereken üst vücudunuzu yere paralel olarak tutmaktır. Nefes alın ve ardından nefes vererek, uygun ağırlıkta seçtiğiniz dumbbell’i kontrollü bir şekilde orta hızda yukarı doğru çekin. Son noktaya geldiğinizde dirseğinizin dışarıya doğru açılmadığından emin olun. Üst kol ve ön kolunuz çekiş sırasında vücuda neredeyse bitişik bir şekilde hareket etmeli. Tepe noktasında bir saniye kadar bekledikten sonra nefes alarak orta yavaş bir hızda dumbbell’ı aşağı doğru salın. Kolunuz tamamen yere uzandığında bekleme yapmadan nefes vererek tekrar yukarı doğru çekin. Tekrar sayısı kadar yaptıktan sonra diğer kola geçin ve seti tamamlayın.",
+        "descEn":"Place your right knee and right hand on a flat bench. Let your left hand hang on the floor towards the dumbbell. The most important thing to pay attention to here is to keep your upper body parallel to the ground. Inhale and then exhale and pull the dumbbell of your choice with a controlled weight upwards at medium speed. When you reach the end point, make sure that your elbow does not open outwards. Your upper arm and forearm should move almost adjacent to the body during the pull. Hold for a second at the top, then inhale and swing the dumbbell down at a moderately slow pace. When your arm is fully extended to the floor, without waiting, exhale and pull it up again. After doing as many reps, switch to the other arm and complete the set."
+    },
+    {
+        "id": 48,
+        "movement_name": "Bent Over Barbell Row",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/bentoverbarbellrows.jpg?raw=true",
+        "desc":"Ayaklarınızı bir omuz genişliği açıp parmak uçlarınızın tam karşıya baktığından emin olun. Dizlerinizi hafifçe kırın ve kalçayı biraz dışarı itin. Sırtınız yere yaklaşık  40-45 derece açıyla durmalı. Şimdi uygun ağırlığı taktığınız barbell’i üstten tutuşla kavrayın. Elleriniz omuz genişliğiniz kadar açık olmalı. Avuç içlerinizin biri içeri, biri dışarı bakması ağırlığı daha iyi kavramanızı sağlayacaktır. Nefes alın ve ardından nefes vererek  kontrollü bir şekilde barbell’i karnınıza kadar çekin. 0,5 saniye kadar bekledikten sonra  nefes alarak kaldırış hızınıza göre daha yavaş bir hızda aşağı doğru salın. Dip noktaya ulaştığınızda bekleme yapmadan, nefes vererek tekrar yukarı çekin. Tekrar sayısı kadar yapıp setinizi tamamlayın.",
+        "descEn":"Make sure your feet are shoulder-width apart and your toes point straight ahead. Bend your knees slightly and push your hips out a little. Your back should be at an angle of about 40-45 degrees to the floor. Now grasp the barbell with an overhand grip, on which you are wearing the appropriate weight. Your hands should be about shoulder-width apart. Having one of your palms facing in and the other out will help you grasp the weight better. Inhale, and then exhale, pulling the barbell up to your chest in a controlled manner. Hold for 0,5 seconds, then inhale and swing down at a slower rate than your lifting speed. When you reach the bottom point, without waiting, breathe out and pull up again. Complete your set by doing as many repetitions as possible."
+    },
+    {
+        "id": 49,
+        "movement_name": "Reverse Fly",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/reversefly.jpg?raw=true",
+        "desc":"Yüzünüz makineye bakacak şekilde oturun, göğsünüzü reverse pec dec makinesinin pedine yaslayın. Üst vücudunuz yere dik pozisyonda olsun. Her iki elinizi ileri uzatıp tutamaçları kavrayın. Dirseklerinizi çok az bükün. Nefes alın ve ardından nefes vererek 1,5 saniye aralığında kollarınızı geriye doğru açmaya başlayın. Kollar açıldıkça  dirsek bükümünüde azaltmaya başlayın. Son noktaya geldiğinizde kürek kemiklerinizi olabildiğince birbirine yaklaştırmaya çalışın. 1 saniye kadar bekleyin ve ardından nefes alarak 1,5-2 saniye aralığında kolları öne doğru yüke direnç göstererek salmaya başlayın. Kollar kapanınca bekleme yapmadan tekrar açmaya başlayın.",
+        "descEn":"Sit facing the machine, rest your chest on the pad of the reverse pec dec machine. Keep your upper body perpendicular to the floor. Reach both hands forward and grasp the handles. Bend your elbows slightly. Inhale and then exhale and begin to open your arms back for 1,5 seconds. As the arms open, begin to reduce the elbow bend. When you reach the end point, try to bring your shoulder blades as close together as possible. Hold for about 1 second, and then breathe out and start swinging the arms forward for 1,5-2 seconds, resisting the load. When the arms are closed, start opening again without waiting."
+    },
+    {
+        "id": 50,
+        "movement_name": "Dumbbell Pull Over",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellpullover.png?raw=true",
+        "desc":"Düz bir bench’e tamamen yatın ve boynunuzun bench’ten taşmasına dikkat edin. Bench’in bitimi  omuz hizası ile aynı olmalıdır. Uygun ağırlıkta seçtiğiniz dumbbell’ı iki elinizle sıkıca kavrayın ve yukarı kaldırın. Bu başlangıç pozisyonunuz olacak. Hareket boyunca mümkün olduğu kadar kollarınızı kırmamalısınız. Nefes alarak, yavaş bir hızda dumbbell’ı olabildiğince başınızdan geriye doğru indirin. Son noktaya gelince bir saniye kadar bekledikten sonra kolları kırmadan, nefes vererek dumbbell’ı yukarı kaldırın. Bitiş anında kollar tamamen yere dik olmalı.",
+        "descEn":"Lie fully on a flat bench and watch your neck protrude off the bench. The end of the bench should be at shoulder level. Grasp the dumbbell of the appropriate weight with both hands and lift it up. This will be your starting position. You should not bend your arms as much as possible throughout the movement. Breathing in, lower the dumbbell as far back from your head as possible at a slow pace. When you reach the last point, wait for a second, then raise the dumbbell up without breaking the arms, exhaling. At the finish, the arms should be completely perpendicular to the ground."
+    },
+    {
+        "id": 51,
+        "movement_name": "One Arm Dumbbell Row",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/onearmdumbbellrow.jpg?raw=true",
+        "desc":"Düz bir bench’e sağ dizinizi ve sağ elinizi koyun. Sol elinizi yere, dumbbell’a doğru sarkıtın.  Burada en çok dikkat etmeniz gereken üst vücudunuzu yere paralel olarak tutmaktır. Nefes alın ve ardından nefes vererek, uygun ağırlıkta seçtiğiniz dumbbell’i kontrollü bir şekilde orta hızda yukarı doğru çekin. Son noktaya geldiğinizde dirseğinizin dışarıya doğru açılmadığından emin olun. Üst kol ve ön kolunuz çekiş sırasında vücuda neredeyse bitişik bir şekilde hareket etmeli. Tepe noktasında bir saniye kadar bekledikten sonra nefes alarak orta yavaş bir hızda dumbbell’ı aşağı doğru salın. Kolunuz tamamen yere uzandığında bekleme yapmadan nefes vererek tekrar yukarı doğru çekin. Tekrar sayısı kadar yaptıktan sonra diğer kola geçin ve seti tamamlayın.",
+        "descEn":"Place your right knee and right hand on a flat bench. Let your left hand hang on the floor towards the dumbbell. The most important thing to pay attention to here is to keep your upper body parallel to the ground. Inhale and then exhale and pull the dumbbell of your choice with a controlled weight upwards at medium speed. When you reach the end point, make sure that your elbow does not open outwards. Your upper arm and forearm should move almost adjacent to the body during the pull. Hold for a second at the top, then inhale and swing the dumbbell down at a moderately slow pace. When your arm is fully extended to the floor, without waiting, exhale and pull it up again. After doing as many reps, switch to the other arm and complete the set."
+    },
+    {
+        "id": 52,
+        "movement_name": "Dumbbell Shrug",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellshrug.png?raw=true",
+        "desc":"Orta-üst ağırlıkta iki adet dumbbell’ı ellerinize alıp aşağı doğru sarkık vaziyette durun. Avuç içleriniz vücudunuza bakacak şekilde olmalı. Eğer gireceğiniz ağırlık fazla ise dengenizi sağlayabilmeniz için ayak genişliğinizi, omuz genişliğinizin kadar açabilirsiniz. Hafif bir ağırlık ise ayaklarınız kapalı ya da yarı açık olabilir. Burada dikkat edeceğiniz püf noktası ise hareketi yaparken sadece trapez kaslarınıza yoğunlaşmanızdır. Nefes alın ve ardından nefes vererek her iki dumbbell’ı da trapez kaslarınızı kullanarak yukarı doğru çekin.  Ardından nefes alarak,  çekiş hızınıza oranla daha yavaş bir hızda aşağı doğru salın.Nefes alın ve ardından nefes vererek her iki dumbbell’ı da trapez kaslarınızı kullanarak yukarı doğru çekin.  Ardından nefes alarak,  çekiş hızınıza oranla daha yavaş bir hızda aşağı doğru salın.",
+        "descEn":"Hold two medium-upper-weight dumbbells in your hands and hang down. Your palms should be facing your body. If the weight you are going to enter is too much, you can open your foot width as much as your shoulder width so that you can balance. If it is a light weight, your feet can be closed or half open. The trick you will notice here is to concentrate only on your trapezius muscles while doing the movement. Inhale and then exhale as you pull both dumbbells up using your trapezius muscles. Then, inhale and release downward at a slower rate than your pull. Inhale and then exhale as you pull both dumbbells upwards using your trapezius muscles. Then, inhale, swing down at a slower rate than your pulling speed."
+    },
+    {
+        "id": 53,
+        "movement_name": "Seated Row",
+        "icon_type": "3",
+        "area": "Sırt",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/seatedrow.jpg?raw=true",
+        "desc":"Cable row makinesine V-bar ı takın, uygun bir ağırlık seçin ve makinenin sehpasına oturun. Oturuşu düzeltmeye ayaklardan başlayalım. Ayaklarınızı makinenin ayaklıklarına  koyun. Parmak uçları tam karşıya bakacak ve dizlerinizi hafifçe kıracaksınız. En çok yapılan hata dizleri kırmadan ayakları dayamaktır. V-bar’ı iki elinizle kavrayıp kollarınızı öne doğru uzatın. Burada dikkat edilmesi gereken, kolları uzatıldığında üst vücudu tam dik konumda tutmaktır. Nefes alın ve ardından nefesinizi vererek v-bar’ı kendinize doğru çekin. Son noktaya geldiğinizde kürek kemiklerinizi yapabildiğiniz kadar birbirine yaklaştırın. Son noktada bir saniye kadar bekledikten sonra, çekiş hızınıza oranla daha yavaş bir hızda v-bar’ı salın. Çekme ve salma yaparken kesinlikle vücudunuzu ileri – geri yatırmayın.",
+        "descEn":"Attach the V-bar to the cable row machine, choose a suitable weight, and sit on the machine's bench. Let's start with the feet to correct sitting. Put your feet on the footrests of the machine. Your toes will point straight ahead and you will bend your knees slightly. The most common mistake is to rest the feet without bending the knees. Grasp the V-bar with both hands and extend your arms forward. The important thing to note here is to keep the upper body in a fully upright position when the arms are extended. Inhale and then exhale and pull the v-bar towards you. When you reach the end point, bring your shoulder blades as close together as you can. Hold for about a second at the end point, then release the v-bar at a slower rate than your traction. Never tilt your body back and forth while pulling and releasing."
+    },
+    {
+        "id": 54,
+        "movement_name": "Barbell Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/barbellcurl.png?raw=true",
+        "desc":"Dik durun Ayaklarınızı ve kollarınızı omuz hizasında açın. Avuç içleri karşı tarafa bakacak şekilde demir bar tutulur. Dirsekler sabit kalarak ağırlık yukarı doğru kaldırılır. Barı ön omuz hizasına kadar kaldırın. Yukarı Kaldırırken nefes verin. Yavaşça aşağı indirirken nefes alarak başlangıç pozisyonuna dönün.",
+        "descEn":"Stand up straight, spread your feet and arms at shoulder level. The iron bar is held with the palms facing the opposite side. Lift the weight upwards while keeping the elbows fixed. Raise the bar up to front shoulder height. Exhale while Lifting. Inhale as you slowly lower down to return to the starting position."
+    },
+    {
+        "id": 55,
+        "movement_name": "Dumbbell Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/dumbbellcurl.png?raw=true",
+        "desc":"Ayaklar omuz hizasında açılır. Avuç içleri kalçanıza bakacak şekilde dummbell ağırlıkları tutulur. Dirsekler sabit kalarak ağırlıklar yukarı doğru kaldırılır. Ağırlıkların kaldırılması sırasında avuç içleri yüzümüze bakacak pozisyonda bilekler döndürülür. Yukarı kaldırırken nefes verin. Yavaşça aşağı indirirken nefes alarak başlangıç pozisyonuna dönün.",
+        "descEn":"Feet open at shoulder level. Hold dumbbell weights with palms facing your hips. Lift the weights upwards while keeping the elbows fixed. While lifting the weights, the wrists are rotated with the palms facing our face. Exhale as you lift. Inhale as you slowly lower down to return to the starting position."
+    },
+    {
+        "id": 56,
+        "movement_name": "Hammer Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/hammercurl.png?raw=true",
+        "desc":"Her iki elinizle Dumbell alın. Avuç içlerini vücudunuza bakıcak şekilde olsun. Ayakları omuz hizasında açın. Dirseklerinizi sabit tutarak sırayla omuz başına doğru yavaşça kaldırın. Kaldırırken nefes alın, nefes vererek indirdikten sonra diğer kolu kaldırarak hareketi tamamlayın.",
+        "descEn":"Take dumbbells with both hands. Keep your palms facing your body. Open feet at shoulder level. Keeping your elbows steady, slowly raise them towards the head of the shoulders. Inhale while raising, lower the exhale and complete the movement by raising the other arm."
+    },
+    {
+        "id": 57,
+        "movement_name": "Dumbell Concentration Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/concentrationcurl.png?raw=true",
+        "desc":"Önünüzde bir dambıl alarak bacaklarınızı birbirinden ayırarak bir sehpada oturun. Dambılı sağ elinizle alın ve sağ kolunuzu sağ uyluğunuzun (baldırın iç kısmı) içine yaslayın. Dirseğiniz uyluğunuzun üstünden daha alçakta olmalıdır, böylece dirseğiniz dönmez ve sağ kolunuz neredeyse tamamen uzatılmış olur. Sırtınızı düz ve üst kolu sabit tutun. Sadece ön kolunuz hareket etmelidir. Avucunuz yüzünüze doğru bakmalıdır. Sırtınızı desteklemek için sol kolunuzu dizinize yaslayabilirsiniz. Dambılı yukarı doğru kıvırırken nefes verin. İndirirken nefes alın ve set sayısı kadar tekrarlayın.",
+        "descEn":"Sit on a bench with your legs apart, holding a dumbbell in front of you. Take the dumbbell in your right hand and rest your right arm on the inside of your right thigh (inner thigh). Your elbow should be lower than the top of your thigh so that your elbow does not rotate and your right arm is almost fully extended. Keep your back straight and upper arm stable. Only your forearm should move. Your palm should be facing towards your face. You can rest your left arm on your knee to support your back. Exhale as you curl the dumbbell upwards. Breathe in as you lower and repeat for the number of sets."
+    },
+    {
+        "id": 58,
+        "movement_name": "Cable Biceps Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/cablebicepscurl.png?raw=true",
+        "desc":"Dirsekler sabit kalarak ağırlık yukarı doğru kaldırılır. Ağırlıkların kaldırılması sırasında avuç içleri yüzümüze bakacak pozisyonda bilekler döndürülür. Yukarı Kaldırırken nefes verin. Yavaşça aşağı indirirken nefes alarak başlangıç pozisyonuna dönün.",
+        "descEn":"Lift the weight upwards while keeping the elbows fixed. While lifting the weights, the wrists are rotated with the palms facing our face. Exhale while Lifting. Inhale as you slowly lower down to return to the starting position."
+    },
+    {
+        "id": 59,
+        "movement_name": "Seated Dumbbell Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/seatedinclinedumbbell.jpg?raw=true",
+        "desc":"Bir bench’in ucuna üst vücudunuz tam dik olacak şekilde oturun. Her iki elinize birer dumbbell alarak avuç içleri vücudunuza dönük ve yere tam sarkık olarak tutun. Nefes alın ve ardından nefes vererek 1 – 1,5 saniye aralığında dumbbell’ı kaldırabildiğiniz son noktaya kadar kaldırın. Kaldırırken bileğinizi yukarı bakacak şekilde rotasyon yapın. Tepe noktaya ulaştığınızda 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında dumbbell’ı aşağı sarkıtarak kolunuzu tam açın. Dip noktaya ulaştığınızda bekleme yapmadan, nefes vererek diğer kolunuzu kaldırmaya başlayın.",
+        "descEn":"Sit on the edge of a bench with your upper body straight. Hold a dumbbell in each hand with palms facing your body and fully hanging down on the floor. Inhale and then exhale and lift the dumbbell as far as you can for 1 to 1,5 seconds. As you lift, rotate your wrist upwards. When you reach the peak, wait for 1 second and then breathe out and open your arm fully by hanging the dumbbell down for 1,5-2 seconds. When you reach the bottom point, without waiting, start raising your other arm by exhaling."
+    },
+    {
+        "id": 60,
+        "movement_name": "Preacher Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/preachercurl.png?raw=true",
+        "desc":"Hareketi ayakta ve oturarak yapmanız mümkün. Ayakta yapacaksanız ağırlık kaldırdığınız kol ile aynı taraftaki ayağınız bir adım önde olmalı. Koltuk altınızı tamamen sehpaya yaslayın. Kafanızı kaldırıp paralel bir duruş vaziyeti oluşturun. Ağırlığı kollarınız tamamen açılana kadar indirin. Nefes vererek Kendinize doğru kaldırın.",
+        "descEn":"You can do the movement standing and sitting. If you are going to do it while standing, your foot on the same side as the arm you are lifting should be one step ahead. Lean your armpit completely against the coffee table. Lift your head and create a parallel posture. Lower the weight until your arms are fully extended. Exhale and lift towards yourself."
+    },
+    {
+        "id": 61,
+        "movement_name": "Biceps Curl Machine",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/bicepscurlmachine.jpg?raw=true",
+        "desc":"Makineye oturun ve koltuk altlarınız makinenin yastığına tam oturacak şekilde pozisyon alın. Kalça kısmınızı da biraz geriye verin. Eğer yapabiliyorsanız bacaklarınızı makinenin alt demirlerine yaslayarak ön kollarınız hariç tüm vücudunuz sabit hale getirin. Ağırlık kolunu sıkıca kavrayın. Nefes alın ve ardından nefes vererek, 1 – 1,5 saniye aralığında, tutamacı üst kollarınız yere dik oluncaya kadar kaldırın. Tepe noktaya geldiğinizde 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında kollarınızı açmaya başlayın. Dip noktaya ulaştığınızda kollarınız tamamen açık olmalı, biceps kasınızda gerginliği hissetmelisiniz. Dip noktaya ulaşınca bekleme yapmadan tekrar kaldırmaya geçin.",
+        "descEn":"Sit on the machine and take a position so that your underarms fit snugly against the cushion of the machine. Bring your hips back a little too. If you can, rest your legs on the lower bars of the machine to stabilize your entire body, except for your forearms. Grasp the weight arm firmly. Inhale and then exhale, for 1 to 1,5 seconds, raising the handle until your upper arms are perpendicular to the floor. When you reach the peak, wait for 1 second and then start to open your arms between 1,5 and 2 seconds by breathing. When you reach the bottom, your arms should be wide open and you should feel the tension in your biceps muscle. When you reach the bottom point, switch to lifting again without waiting."
+    },
+    {
+        "id": 62,
+        "movement_name": "Dumbell Incline Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/inclinedumbbellcurl.jpg?raw=true",
+        "desc":"Incline bench dumbbell curl hareketini yapmak için eğimli sehpaya sırt üstü uzanılır. Her iki ele alınan uygun ağırlıktaki dumbellar, avuç içleri karşıya bakacak şekilde aşağı doğru sallanır. Vücut dik ve sehpaya tamamen yaslanmış durumdadır. Doğru şekilde konumlandıktan sonra dumbellar, dirsekleri kırarak omuz hizasına doğru, nefes vererek kaldırılır. Burada, kolun omuzdan dirseklere kadar olan kısmını ileri geri hareket ettirmeden sabit tutup, yalnızca dirsek-el arası bölümünü yukarı aşağı hareket ettirerek dumbelları kaldırmak gerekir. Bu şekilde 1 saniye kaldıktan sonra nefes alarak ilk konuma dönülür.",
+        "descEn":"To do the Incline bench dumbbell curl, lie on your back on an incline bench. Dumbbells of appropriate weight in both hands swing downwards with palms facing forward. The body is upright and fully reclined on the bench. Once positioned correctly, the dumbbells are lifted to shoulder level by exhaling by bending the elbows. Here, it is necessary to hold the part of the arm from the shoulder to the elbows without moving it back and forth, and raise the dumbbells by moving only the elbow-hand part up and down. After staying in this way for 1 second, take a breath and return to the first position."
+    },
+    {
+        "id": 63,
+        "movement_name": "Barbell Reverse Curl",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/barbellreversecurl.png?raw=true",
+        "desc":"Orta ağırlıkta olan barbell’i üstten tutuş ile yani avuç içleri aşağı bakar pozisyonda kavrayalım. Kollar omuz genişliğinde olsun. Ayaklarınızı dengeyi sağlayabilmek için omuz genişliği kadar açın. Nefes alın ve ardından nefes vererek barbell’i kollarınız tam kapanıncaya kadar 1 – 1,5 saniye aralığında yukarı kaldırın. 1 saniye kadar tepe noktada bekleyip ardından nefes alarak 1,5 – 2 saniye aralığında kollarınızı aşağı salın. Dip noktaya salarken, barbell’in vücuda değmesine 10 cm kala salmayı kesin ve bekleme yapmadan tekrar kaldırışa geçin.",
+        "descEn":"Let's grasp the medium-weight barbell with an overhand grip, that is, with the palms facing down. Have your arms shoulder-width apart. Spread your feet shoulder-width apart for balance. Inhale and then exhale and raise the barbell for 1 to 1,5 seconds until your arms are fully closed. Hold at the top for 1 second, then breathe out and swing your arms down for 1,5 to 2 seconds. While swinging to the bottom, stop releasing the barbell 10 cm before it touches the body and switch back to the lift without waiting."
+    },
+    {
+        "id": 64,
+        "movement_name": "Chin Up",
+        "icon_type": "4",
+        "area": "Ön Kol (Biceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/chinup.jpg?raw=true",
+        "desc":"Barfiks barını tutarken kollar omuz genişliğinde açılmalı. Barfiks barını tutan eller yüze bakmalı. Bedeninizi yukarı doğru çekerken pazı kaslarınızı sıkmalısınız. Yukarı çekerken çok yavaş hareket edilmeli. Doğru nefes alınmalı. İnme esnasında yine yavaş davranılır. Hareket esnasında sırtınız dik olmalı. Ayaklarınızı arkadan birleştirin ve dizlerinizi kırın.",
+        "descEn":"While holding the pull-up bar, arms should be shoulder-width apart. The hands holding the pull-up bar should face the face. You should tighten your biceps as you pull your body up. Move very slowly when pulling up. You must breathe properly. Again, the stroke is slow. Your back should be straight during the movement. Bring your feet back together and bend your knees."
+    },
+    {
+        "id": 65,
+        "movement_name": "Overhead dumbbell extension",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/overheaddumbbellextension.jpg?raw=true",
+        "desc":"Bir bench’in üzerine oturun. Dengeyi sağlamak amaçlı ayaklarınızı açın. Uygun ağırlıkta bir dumbbel’ı her iki elinizle sıkıca kavrayıp başınızın arkasına alın. Bu başlangıç pozisyonunuz olacak. Dirsekleriniz ne çok açık ne de çok kapalı bir pozisyonda olsun. Nefes alın ve ardından nefes vererek triceps’lerinize odaklanarak dumbbell’ı yukarı doğru itin.Tepe noktasına geldiğiniz de bekleme yapmadan kaldırış hızınıza oranla biraz daha yavaş bir hızla, nefes alarak aşağıya doğru kontrollü bir şekilde indirin.Dip noktaya ulaştığınızda bekleme yapmadan tekrar kaldırışa geçin.",
+        "descEn":"Sit on a bench. Spread your feet for balance. Grasp a dumbbell of appropriate weight with both hands and hold it behind your head. This will be your starting position. Keep your elbows neither too wide nor too closed. Inhale and then exhale and push the dumbbell upwards, focusing on your triceps. When you reach the peak, lower it in a controlled manner by breathing in, at a slightly slower speed than your lifting speed, without waiting. When you reach the bottom point, switch to lifting again without waiting."
+    },
+    {
+        "id": 66,
+        "movement_name": "Cable pushdown",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/cablepushdown.png?raw=true",
+        "desc":"Makineye uygun ağırlık ve kısa triceps barı takılır.  Makara grubu en yükseğe kaldırılır. Eller arasında yaklaşık 20 cm mesafe kalacak şekilde ve avuç içleri aşağı bakacak pozisyonda bar kavranır.Omuz ve dirsek arası yani üst kol yere dik ve vücuda mümkün olduğu kadar bitişik şekilde tutulur. Dirsek ve el arası yani ön kol yere paralel ya da biraz daha yukarıda duracak şekle getirilir. Bu başlangıç pozisyonudur.İki çeşit ayak duruşu vardır. Birincisi : Bir ayak ileride ve vücut yükü onun üzerinde, diğer ayak biraz arkada ve parmak ucu yere basık topuk biraz kalkık, bel biraz eğik ve göğüs biraz ileride. İkincisi: Ayaklar aynı hizada ve yere tam basık, bel düz, göğüs biraz ileride.Hazırsanız nefes alın ve ardından nefes vererek 1 – 1,5 saniye aralığında yere paralel olan ön kolunuzu, yere dik olana kadar indirmeye başlayın. Dip noktaya ulaştığınızda nefes alarak ön kolunuzu 1 – 1,5 saniye aralığında yere paralel olana kadar kaldırmaya başlayın.",
+        "descEn":"Appropriate weight and short triceps bar are attached to the machine. The spool group is raised to the highest. Grasp the bar with the palms facing down, keeping a distance of approximately 20 cm between the hands. Keep the upper arm perpendicular to the ground and as close to the body as possible, between the shoulders and elbows. Between the elbow and the hand, that is, the forearm is brought to stand parallel to the ground or slightly higher. This is the starting position. There are two types of foot positions. First: One foot is forward and the weight of the body is on it, the other foot is slightly behind and the toe is flat on the ground, the heel is slightly raised, the waist is slightly bent and the chest is slightly forward. Second: Feet are at the same level and fully flat on the ground, waist is straight, chest is slightly forward. Inhale if you are ready, and then start lowering your forearm, which is parallel to the ground, for 1 – 1,5 seconds, until it is perpendicular to the ground. When you reach the bottom point, start raising your forearm until it is parallel to the ground in a range of 1 – 1,5 seconds by breathing."
+    },
+    {
+        "id": 67,
+        "movement_name": "Rope PushDown",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/ropepushdown.png?raw=true",
+        "desc":"Triceps istasyonu ya da cable cross makinesine halatı takın.Orta bir ağırlık seçin. Vücudunuzu düz tutun. Üst resimdeki kadar mesafede makineye yaklaşın. Eğer yüksek bir ağırlık girecekseniz belinizi korumak için bir adım öne atabilir, ya da dizlere biraz açı verip kalçayı biraz geri itebilirsiniz.Hareket boyunca üst kollarınız yere dik ve vücuda olabildiğince bitişik olacak.Nefes alın ve ardından nefesinizi vererek ön kollarınızı yere paralel halden, aşağı doğru yere dik olana kadar, ellerinize fleksiyon vererek halatı itin. Ön kollar yere tam dik olunca bekleme yapmadan, nefes alarak ve itiş hızınıza göre daha yavaş bir hızda halatı yukarı doğru salın.Ön kollarınız yere paralel hale gelince salışı kesin ve bekleme yapmadan nefes vererek tekrar itişe geçin.",
+        "descEn":"Attach the rope to the triceps station or cable cross machine. Choose a medium weight. Keep your body straight. Approach the machine as far as the top picture. If you are going to put on a high weight, you can take a step forward to protect your waist, or you can angle your knees a little and push your hips back a little. Throughout the movement, your upper arms will be perpendicular to the floor and as close to the body as possible. Inhale and then exhale, lower your forearms from parallel to the floor. flex your hands and push the rope until it is perpendicular to the ground. When your forearms are perpendicular to the ground, without waiting, swing the rope upwards by breathing and at a slower speed than your thrust. When your forearms become parallel to the ground, stop the swing and start pushing again by exhaling without waiting."
+    },
+    {
+        "id": 68,
+        "movement_name": "One Arm Reverse Pushdown",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/onearmreversegrippushdown.jpg?raw=true",
+        "desc":"Tel kablo ile yapılan bir harekettir.Dirseğinizi vücudunuza doğru kitleyin.Dirsekler sabit kalarak, Omuz hizasında bükme işlemini gerçekleştirin.Bükme işlemi sırasında nefes alın.Çekme işlemi sırasında nefesinizi verin ve kolunuzu 1 saniye gerilme noktasında sabit tutun.Hareketin vermiş olduğu gerginliği hissettiğinizde tekrar başlangıç pozisyonuna geri dönün.",
+        "descEn":"It is a movement made with a wire cable. Lock your elbow towards your body. Keeping the elbows fixed, perform the bending at Shoulder level. Breathe during the bending process. Exhale during the pulling process and keep your arm fixed at the stretch point for 1 second. When you feel the tension of the movement, return to the starting position. come back."
+    },
+    {
+        "id": 69,
+        "movement_name": "Bench Dips",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/benchdips.jpg?raw=true",
+        "desc":"Elleriniz arkada olacak şekilde sehpaya sırtınızı verin.Ayaklarınızı önde tutun ve vücudunuzun ağırlığı kollarınız tarafından desteklenecek şekilde, Ellerinizle sehpadan destek alarak vücudunuzu aşağı doğru indirin.Dirseklerinizi bükerken nefes verin ve omuzlarınızda hafif bir gerginlik hissedene veya dirsekleriniz 90 derecelik bir açı elde edene kadar vücudunuzu indirin.Hareketi biraz daha zorlaştırmak için ayaklarınızı karşınızda bulunan aynı boyda sehpaya uzatarak ve üzerinize ağırlık koyarak uygulayabilirsiniz.",
+        "descEn":"Back on the bench with your hands behind you. Keep your feet in front and lower your body down with your hands supporting the bench, with your hands supported on the bench. Exhale as you bend your elbows and lower your body until you feel a slight stretch in your shoulders or your elbows reach a 90-degree angle. To make the movement a little more difficult, you can apply it by stretching your feet on the same size bench in front of you and putting weight on you."
+    },
+    {
+        "id": 70,
+        "movement_name": "Skull Crusher",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/skullcrusher.jpg?raw=true",
+        "desc":"Uygun ağırlıkta bir ez bar seçin ve düz bench sehpasının üzerine kafanız biraz dışarıda kalacak kadar uzanın.Üst kolunuzu başınız tarafına doğru yaklaşık 30° derece gibi bir eğim verin.Hareket boyunca üst kolunuz tamamen hareketsiz kalacak. Sadece ön kolunuz hareket edecek.Ez barı başınızın arkasına olabildiğince sarkıtın ve nefes vererek 1 – 1,5 saniye aralığında,  üst kol ve ön kolunuz düz bir çizgi oluncaya dek kaldırın. Tepe noktaya ulaştığınızda 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında, üst kolunuzu sabit tutarak barı başınızın arkasına doğru indirmeye başlayın.Dip noktaya ulaştığınızda bekleme yapmadan, nefes vererek tekrar kaldırmaya başlayın. Set boyunca dirseklerinizi omuz genişliğizden daha fazla açmamaya özen gösterin.",
+        "descEn":"Choose an ez bar of the appropriate weight and lie down on the flat bench until your head is slightly out. Tilt your upper arm to the side of your head about 30°. Your upper arm will remain completely motionless throughout the movement. Only your forearm will move. Let the Ez bar hang behind your head as much as possible, and while exhaling, raise it for 1 to 1,5 seconds until your upper arm and forearm are in a straight line. When you reach the apex, wait for 1 second, and then inhale and start lowering the bar towards the back of your head, keeping your upper arm stable, in a range of 1,5 – 2 seconds. Be careful not to open your elbows more than shoulder-width throughout the set."
+    },
+    {
+        "id": 71,
+        "movement_name": "Triceps Dumbbell Kickback",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/tricepsdumbbellkickback.jpg?raw=true",
+        "desc":"Bench sehpasının üzerine bir dizinizi ve aynı kısımdaki elinizi koyarak üst vücudu yere eğimli hale getirin.Şimdi üst kolunuzu (omuz ve dirsek arası) yere paralel hale getirin ve uygun ağırlıktaki dumbbell’i kavramış olan ön kolunuzu (dirsek ve el arası) yere dik konuma getirin ve başlangıç pozisyonunuzu alın.Nefes alın ve ardından nefes vererek 1 – 1,5 saniye aralığında ön kolunuzu yere dik halden yere paralel hale gelene kadar geriye doğru itin.Bunu yaparken kolu dışarıya doğru açmayın. Kol vücuda paralel halde hareket etmeli.Ön kol yere paralel hale geldiğinde tepe noktada 1 saniye kadar bekleyin ve ardından nefes alarak 1,5 – 2 saniye aralığında ön kolu yere paralel olmasına  yaklaşık 5° derece kalana kadar indirin.Dip noktaya ulaştığınızda bekleme yapmadan nefes vererek tekrar kaldırışa geçin.",
+        "descEn":"Place one knee and hand on the same part on the bench and make the upper body inclined to the floor. Now bring your upper arm (between shoulder and elbow) parallel to the floor and, having grasped the appropriate weight dumbbell, bring your forearm (between elbow and hand) perpendicular to the floor. and take your starting position. Inhale and then exhale, pushing your forearm back from perpendicular to the ground until it is parallel to the ground for 1 – 1,5 seconds. Do not open the arm outwards while doing this. The arm should move parallel to the body. When the forearm becomes parallel to the ground, wait for 1 second at the apex, and then inhale and lower the forearm until it is about 5° from parallel to the ground for 1,5-2 seconds. When you reach the bottom point, exhale without waiting. back to the lift."
+    },
+    {
+        "id": 72,
+        "movement_name": "Close Grip Bench Press",
+        "icon_type": "5",
+        "area": "Arka Kol (Triceps)",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/closegripbench.png?raw=true",
+        "desc":"Bu hareket bench press sehpahasın'da, normal düz benchte ya da smith machine'de yapılabilir. Bench’e uzanın. Sırtınız sehpaya tam temas halinde ve ayaklarınız dengeyi sağlamak amaçlı biraz açık ve yere tam basar pozisyonda olsun.İki eliniz arasında  yaklaşık 15 – 20 cm mesafe kalacak şekilde barı kavrayın. Bu başlangıç pozisyonunuz olacak.Standart Bench press göğüs egzersizi ile karıştırıp yüksek ağırlık takmayın. İlk denemeniz ise boş barla yapsanız iyi olur.Nefes alın ve ardından nefes vererek, barı  yukarı doğru, kollar dümdüz olana kadar itin.Son noktaya ulaşınca bir saniye kadar bekledikten sonra  barı kontrollü bir şekilde indirin.",
+        "descEn":"This move can be done on a bench press, a regular flat bench, or a smith machine. Reach for the bench. Keep your back in full contact with the bench and your feet slightly open and flat on the ground for balance. Grasp the bar with a distance of about 15-20 cm between your hands. This will be your starting position. Do not mix the standard bench press with the chest exercise and do not wear high weights. For your first try, you'd better do it with an empty bar. Inhale and then, exhaling, push the bar up until your arms are straight. Hold for a second when you reach the end point, then lower the bar in a controlled manner."
+    },
+    {
+        "id": 73,
+        "movement_name": "Abdominal Crunch",
+        "icon_type": "6",
+        "area": "Karın",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/abdominalcrunch.jpg?raw=true",
+        "desc":"Sırt üstü uzanıyoruz ve dizleri vücuda çekerek kırın.Nefes vererek hafifçe kalkıyoruz ve dirseklerin arasındaki mesafeyi biraz kapatıyoruz ve yavaşça nefes alarak sırtüstü yatıyoruz ve dirsekleri her iki yana açıyoruz , dirsekleri açıp kapatırsanız hareket daha etkili olur.Harekete başlamadan mutlaka ısınma yapın.",
+        "descEn":"Lie on your back on the mat. Pull your toes towards you and extend both feet straight to the ground without bending the knees. Place your hands under your head on the sides of your neck. Make sure your elbows are open. Raise your head and body so that all of your shoulder blades are off the ground. You can return to the starting point by staying in this position for a while."
+    },
+    {
+        "id": 74,
+        "movement_name": "Legs Up Crunch",
+        "icon_type": "6",
+        "area": "Karın",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/legsupcrunch.jpg?raw=true",
+        "desc":"Matın üzerinde yere sırt üstü uzanın.Ayak parmaklarınızı kendinize doğru çekerek her iki ayağı yere dik ve dizleri kırmadan düz bir şekilde yukarıya uzatın.Ellerinizi başınızın altına boynun yanlarına yerleştirin. Dirseklerin açık durmasına dikkat edin.Baş ve gövdeyi kürek kemiklerinizin tamamı yerden kalkacak şekilde yukarıya yükselin. Bu pozisyonda bir süre kalarak başladığınız noktaya geri dönebilirsiniz.",
+        "descEn":""
+    },
+    {
+        "id": 75,
+        "movement_name": "Side Crunch",
+        "icon_type": "6",
+        "area": "Karın",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/sidecrunch.jpg?raw=true",
+        "desc":"Yan pozisyonda yere yatılır ve vücut mümkün olduğu kadar yukarı kaldırılmaya çalışılır ki yan bölgeler iyice sıkışsın ve iyi bir şekilde çalışsın.",
+        "descEn":"Lie on the floor in the side position and try to lift the body as high as possible so that the side areas are well compressed and work well."
+    },
+    {
+        "id": 76,
+        "movement_name": "Plank",
+        "icon_type": "6",
+        "area": "Karın",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/plank.jpg?raw=true",
+        "desc":"Yüz üstü yere uzanın.Topuktan enseye kadar vücudunuz düz bir çizgi halinde olmalı.Dirsekleriniz ileriye doğru ve yere tam temas halinde olsun. Üst kol ise yere dik olacak.Nefes alın ve süreyi başlatın.Hareket boyunca karın kaslarınızı sonuna kadar kasın. Bölgede mükemmel bir yanma hissi duyuncaya kadar devam edin.Gücünüzün tamamı tükenince hareketi bırakın.",
+        "descEn":"Lie facedown on the floor. Your body should be in a straight line from heel to nape. Keep your elbows straight and in full contact with the ground. The upper arm will be perpendicular to the floor. Breathe in and start the time. Contract your abdominal muscles to the fullest throughout the movement. Continue until you feel a perfect burning sensation in the area. Release when all your strength is gone."
+    },
+    {
+        "id": 77,
+        "movement_name": "Lying Legs Up",
+        "icon_type": "6",
+        "area": "Karın",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/lyinglegsup.JPG?raw=true",
+        "desc":"Eller gövdenin yanında yerle temas ediyor baş yerle temas ediyor.Kalça hareket boyunca yerle temas ediyor.Bacaklar düz bir şekilde gövdeyle 90 derece açı yapacak kadar yükseltilir.Kontrollü bir şekilde bacak dümdüz tekrar başlangıç pozisyonuna dönülür.Sırtın yerden kalkmasına engel olunmalıdır bunun için ellerinizle bir yere tutunabilirsiniz.",
+        "descEn":"The hands touch the ground next to the body, the head touches the ground. The hips touch the ground throughout the movement. The legs are raised straight up to make a 90 degree angle with the trunk."
+    },
+    {
+        "id": 78,
+        "movement_name": "Seated Knee Up",
+        "icon_type": "6",
+        "area": "Karın",
+        "image": "https://github.com/meaglandroid/bfit/blob/main/seatedkneeup.JPG?raw=true",
+        "desc":"Düz bir sıra kenarına oturarak, ellerle kenarlar sıkıca kavranır. Vücut sıra ile yaklaşık 35-40 derecelik bir açı oluşturmalıdır. Bacaklar dışarıda ve boştadır. Bu durumda dizler nefes vererek göğse doğru kontrollü ve yavaşça çekilir, nefes alarak en alt pozisyona gelinceye kadar bacaklar aşağı indirilir.",
+        "descEn":"Sitting on the edge of a straight row, grasp the edges firmly with the hands. The body should form an angle of about 35-40 degrees alternately. Legs are out and free. In this case, the knees are pulled slowly and controlled towards the chest by exhaling, and the legs are lowered until they reach the lowest position by inhaling."
+    }]
+    }
